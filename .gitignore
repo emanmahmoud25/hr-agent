@@ -1,0 +1,16 @@
+adapters/
+data/raw_cvs/
+data/extracted_cvs/
+.env
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+checkpoints/
+*.safetensors
+*.bin
+wandb/
+.DS_Store
+
+hr-system/

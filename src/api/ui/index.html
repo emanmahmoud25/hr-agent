@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>CV Intelligence</title>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Geist+Mono:wght@300;400;500&display=swap" rel="stylesheet"/>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  :root {
+    --bg:#070710;--surface:#0e0e1a;--border:#1a1a2e;--accent:#6c5ce7;
+    --accent2:#e17055;--green:#00b894;--red:#e84393;--text:#dde1f0;
+    --muted:#555570;--card:#0b0b16;
+  }
+  body { font-family:'Geist Mono',monospace; background:var(--bg); color:var(--text); min-height:100vh; }
+  body::before { content:''; position:fixed; inset:0; z-index:0;
+    background-image:linear-gradient(rgba(108,92,231,0.025) 1px,transparent 1px),linear-gradient(90deg,rgba(108,92,231,0.025) 1px,transparent 1px);
+    background-size:48px 48px; pointer-events:none; }
+  .glow-orb { position:fixed; border-radius:50%; filter:blur(140px); pointer-events:none; z-index:0; }
+  .glow-orb.one { width:600px; height:600px; background:rgba(108,92,231,0.07); top:-200px; left:-150px; }
+  .glow-orb.two { width:350px; height:350px; background:rgba(225,112,85,0.05); bottom:-80px; right:-80px; }
+  .wrapper { position:relative; z-index:1; max-width:820px; margin:0 auto; padding:52px 28px 100px; }
+  header { margin-bottom:56px; animation:fadeDown 0.7s cubic-bezier(0.22,1,0.36,1) both; }
+  .badge { display:inline-flex; align-items:center; gap:8px; border:1px solid rgba(108,92,231,0.2);
+    border-radius:4px; padding:5px 12px; font-size:9px; color:var(--accent); letter-spacing:0.18em;
+    text-transform:uppercase; margin-bottom:28px; }
+  .badge-dot { width:5px; height:5px; background:var(--accent); border-radius:50%; animation:pulse 2.5s infinite; }
+  h1 { font-family:'Space Grotesk',sans-serif; font-size:clamp(28px,4vw,42px); font-weight:300; line-height:1.1; letter-spacing:-0.03em; }
+  h1 strong { font-weight:700; color:var(--accent); }
+  .subtitle { margin-top:14px; color:var(--muted); font-size:11px; letter-spacing:0.06em; }
+  .upload-zone { border:1px solid var(--border); border-radius:12px; padding:52px 32px; text-align:center;
+    cursor:pointer; transition:all 0.3s; background:var(--card); position:relative; overflow:hidden; margin-bottom:28px; }
+  .upload-zone:hover { border-color:rgba(108,92,231,0.35); }
+  .upload-icon-wrap { width:48px; height:48px; border:1px solid var(--border); border-radius:10px;
+    display:flex; align-items:center; justify-content:center; margin:0 auto 18px; background:var(--surface); }
+  .upload-icon-svg { width:22px; height:22px; stroke:var(--muted); fill:none; stroke-width:1.5; stroke-linecap:round; stroke-linejoin:round; transition:stroke 0.3s; }
+  .upload-zone:hover .upload-icon-svg { stroke:var(--accent); }
+  .upload-title { font-family:'Space Grotesk',sans-serif; font-size:14px; font-weight:500; margin-bottom:6px; }
+  .upload-sub { font-size:10px; color:var(--muted); margin-bottom:22px; }
+  .upload-btn { display:inline-block; border:1px solid rgba(108,92,231,0.25); color:var(--accent);
+    padding:7px 20px; border-radius:6px; font-size:10px; cursor:pointer; letter-spacing:0.08em; text-transform:uppercase; }
+  #fileInput { display:none; }
+  .file-preview { display:none; align-items:center; gap:14px; background:rgba(0,184,148,0.05);
+    border:1px solid rgba(0,184,148,0.15); border-radius:10px; padding:14px 18px; margin-bottom:28px; }
+  .file-preview.show { display:flex; }
+  .file-icon-wrap { width:34px; height:34px; background:rgba(0,184,148,0.1); border-radius:8px;
+    display:flex; align-items:center; justify-content:center; flex-shrink:0; }
+  .file-icon-svg { width:16px; height:16px; stroke:var(--green); fill:none; stroke-width:1.5; stroke-linecap:round; stroke-linejoin:round; }
+  .file-info { flex:1; }
+  .file-name { font-family:'Space Grotesk',sans-serif; font-size:12px; font-weight:500; color:var(--green); }
+  .file-size { font-size:10px; color:var(--muted); margin-top:2px; }
+  .file-remove { background:none; border:none; color:var(--muted); cursor:pointer; padding:6px; transition:color 0.2s; display:flex; align-items:center; }
+  .file-remove:hover { color:var(--red); }
+  .file-remove svg { width:14px; height:14px; stroke:currentColor; fill:none; stroke-width:1.8; stroke-linecap:round; }
+  .section-label { font-size:9px; letter-spacing:0.18em; text-transform:uppercase; color:var(--muted); margin-bottom:14px; }
+  .lora-grid { display:grid; grid-template-columns:repeat(2,1fr); gap:10px; margin-bottom:10px; }
+  .lora-card { background:var(--card); border:1px solid var(--border); border-radius:12px; padding:22px 20px;
+    cursor:pointer; transition:all 0.25s; position:relative; overflow:hidden; }
+  .lora-card:hover { border-color:rgba(108,92,231,0.3); transform:translateY(-1px); }
+  .lora-card.active { border-color:rgba(108,92,231,0.5); background:rgba(108,92,231,0.06); }
+  .lora-num { font-size:9px; color:var(--accent); letter-spacing:0.15em; margin-bottom:10px; opacity:0.6; }
+  .lora-name { font-family:'Space Grotesk',sans-serif; font-size:14px; font-weight:600; margin-bottom:8px; letter-spacing:-0.02em; }
+  .lora-desc { font-size:10.5px; color:var(--muted); line-height:1.65; }
+  .lora-check { position:absolute; top:16px; right:16px; width:18px; height:18px; border-radius:50%;
+    border:1px solid var(--border); display:flex; align-items:center; justify-content:center; transition:all 0.2s; }
+  .lora-check svg { width:9px; height:9px; stroke:white; fill:none; stroke-width:2.5; stroke-linecap:round; stroke-linejoin:round; opacity:0; transition:opacity 0.2s; }
+  .lora-card.active .lora-check { background:var(--accent); border-color:var(--accent); }
+  .lora-card.active .lora-check svg { opacity:1; }
+  .full-option { background:var(--card); border:1px solid var(--border); border-radius:12px; padding:16px 20px;
+    cursor:pointer; transition:all 0.25s; display:flex; align-items:center; gap:14px; margin-bottom:28px; margin-top:10px; }
+  .full-option:hover { border-color:rgba(225,112,85,0.3); }
+  .full-option.active { border-color:rgba(225,112,85,0.45); background:rgba(225,112,85,0.05); }
+  .full-check { width:18px; height:18px; border-radius:50%; border:1px solid var(--border);
+    display:flex; align-items:center; justify-content:center; transition:all 0.2s; flex-shrink:0; }
+  .full-check svg { width:9px; height:9px; stroke:white; fill:none; stroke-width:2.5; stroke-linecap:round; stroke-linejoin:round; opacity:0; }
+  .full-option.active .full-check { background:var(--accent2); border-color:var(--accent2); }
+  .full-option.active .full-check svg { opacity:1; }
+  .full-label { font-family:'Space Grotesk',sans-serif; font-size:13px; font-weight:600; letter-spacing:-0.02em; }
+  .full-sub { font-size:10px; color:var(--muted); margin-top:2px; }
+  .full-badge { margin-left:auto; background:rgba(225,112,85,0.1); border:1px solid rgba(225,112,85,0.2);
+    color:var(--accent2); font-size:9px; padding:3px 10px; border-radius:4px; letter-spacing:0.1em; white-space:nowrap; text-transform:uppercase; }
+  .run-btn { width:100%; padding:14px; background:var(--accent); border:none; border-radius:10px;
+    font-family:'Space Grotesk',sans-serif; font-size:13px; font-weight:600; color:white; cursor:pointer; transition:all 0.25s; position:relative; overflow:hidden; }
+  .run-btn:hover:not(:disabled) { background:#5a4dd1; transform:translateY(-1px); box-shadow:0 12px 40px rgba(108,92,231,0.35); }
+  .run-btn:disabled { opacity:0.3; cursor:not-allowed; }
+  .btn-spinner { display:none; }
+  .run-btn.loading .btn-text { opacity:0; }
+  .run-btn.loading .btn-spinner { display:flex; position:absolute; inset:0; align-items:center; justify-content:center; }
+  .spinner-ring { width:18px; height:18px; border:1.5px solid rgba(255,255,255,0.25); border-top-color:white; border-radius:50%; animation:spin 0.7s linear infinite; }
+  .results-section { margin-top:36px; }
+  .result-block { background:var(--card); border:1px solid var(--border); border-radius:12px; margin-bottom:12px; overflow:hidden; }
+  .result-header { display:flex; align-items:center; gap:10px; padding:12px 18px; border-bottom:1px solid var(--border); }
+  .result-tag { font-size:9px; letter-spacing:0.12em; text-transform:uppercase; padding:3px 10px; border-radius:4px; font-weight:600; }
+  .tag-classify { background:rgba(108,92,231,0.12); color:var(--accent); border:1px solid rgba(108,92,231,0.2); }
+  .tag-skills   { background:rgba(0,184,148,0.1);   color:var(--green);  border:1px solid rgba(0,184,148,0.2); }
+  .tag-interview{ background:rgba(225,112,85,0.1);  color:var(--accent2);border:1px solid rgba(225,112,85,0.2); }
+  .tag-improve  { background:rgba(232,67,147,0.1);  color:var(--red);    border:1px solid rgba(232,67,147,0.2); }
+  .result-meta { margin-left:auto; font-size:10px; color:var(--muted); }
+  .result-body { padding:20px 18px; font-size:12px; line-height:1.8; color:var(--text); white-space:pre-wrap; word-break:break-word; }
+  .error-box { display:none; background:rgba(232,67,147,0.07); border:1px solid rgba(232,67,147,0.2);
+    border-radius:8px; padding:12px 16px; margin-top:16px; font-size:11px; color:var(--red); }
+  .error-box.show { display:block; }
+
+  /* ── RANK SECTION ─────────────────────────────────── */
+  .divider { height:1px; background:var(--border); margin:52px 0; }
+  .rank-section { animation:fadeUp 0.6s cubic-bezier(0.22,1,0.36,1) both; }
+  .rank-drop-zone { border:1px dashed var(--border); border-radius:12px; padding:36px 32px;
+    text-align:center; cursor:pointer; background:var(--card); margin-bottom:16px; transition:all 0.3s; }
+  .rank-drop-zone:hover { border-color:rgba(0,184,148,0.3); }
+  .rank-drop-zone.has-files { border-color:rgba(0,184,148,0.25); background:rgba(0,184,148,0.02); }
+  .rank-files-list { display:flex; flex-wrap:wrap; gap:6px; margin-bottom:14px; min-height:0; }
+  .file-chip { display:inline-flex; align-items:center; gap:6px; background:rgba(0,184,148,0.07);
+    border:1px solid rgba(0,184,148,0.18); border-radius:6px; padding:5px 10px; font-size:10px; color:var(--green); }
+  .file-chip-x { cursor:pointer; opacity:0.5; margin-left:2px; transition:opacity 0.2s; }
+  .file-chip-x:hover { opacity:1; }
+  .rank-jd { width:100%; background:var(--card); border:1px solid var(--border); border-radius:10px;
+    padding:14px 16px; color:var(--text); font-family:'Geist Mono',monospace; font-size:11px;
+    resize:vertical; min-height:88px; margin-bottom:16px; outline:none; line-height:1.7; }
+  .rank-jd:focus { border-color:rgba(108,92,231,0.35); }
+  .rank-jd::placeholder { color:var(--muted); }
+  .rank-btn { width:100%; padding:13px; background:var(--green); border:none; border-radius:10px;
+    font-family:'Space Grotesk',sans-serif; font-size:13px; font-weight:600; color:#070710;
+    cursor:pointer; transition:all 0.25s; position:relative; overflow:hidden; }
+  .rank-btn:hover:not(:disabled) { background:#00d4a8; transform:translateY(-1px); box-shadow:0 12px 40px rgba(0,184,148,0.3); }
+  .rank-btn:disabled { opacity:0.3; cursor:not-allowed; }
+  .rank-btn.loading .btn-text { opacity:0; }
+  .rank-btn.loading .btn-spinner { display:flex; position:absolute; inset:0; align-items:center; justify-content:center; }
+  .rank-error { display:none; background:rgba(232,67,147,0.07); border:1px solid rgba(232,67,147,0.2);
+    border-radius:8px; padding:12px 16px; margin-top:16px; font-size:11px; color:var(--red); }
+  .rank-error.show { display:block; }
+  .rank-results { margin-top:24px; }
+  .rank-card { background:var(--card); border:1px solid var(--border); border-radius:12px;
+    padding:20px 22px; margin-bottom:10px; display:flex; align-items:flex-start; gap:18px;
+    transition:border-color 0.2s; animation:fadeUp 0.4s cubic-bezier(0.22,1,0.36,1) both; }
+  .rank-card:nth-child(1) { border-color:rgba(255,215,0,0.2); animation-delay:0.05s; }
+  .rank-card:nth-child(2) { border-color:rgba(192,192,192,0.15); animation-delay:0.1s; }
+  .rank-card:nth-child(3) { border-color:rgba(205,127,50,0.15); animation-delay:0.15s; }
+  .rank-card:nth-child(n+4) { animation-delay:0.2s; }
+  .rank-medal { width:36px; height:36px; border-radius:50%; display:flex; align-items:center; justify-content:center;
+    font-family:'Space Grotesk',sans-serif; font-weight:700; font-size:13px; flex-shrink:0; margin-top:2px; }
+  .medal-1 { background:rgba(255,215,0,0.12); color:#ffd700; border:1px solid rgba(255,215,0,0.25); }
+  .medal-2 { background:rgba(192,192,192,0.1); color:#c0c0c0; border:1px solid rgba(192,192,192,0.2); }
+  .medal-3 { background:rgba(205,127,50,0.1); color:#cd7f32; border:1px solid rgba(205,127,50,0.2); }
+  .medal-n { background:rgba(85,85,112,0.15); color:var(--muted); border:1px solid var(--border); }
+  .rank-info { flex:1; min-width:0; }
+  .rank-fname { font-family:'Space Grotesk',sans-serif; font-size:13px; font-weight:600;
+    margin-bottom:5px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+  .rank-summary { font-size:10.5px; color:var(--muted); line-height:1.6; margin-bottom:12px; }
+  .rank-bars { display:flex; flex-direction:column; gap:6px; }
+  .bar-row { display:flex; align-items:center; gap:10px; }
+  .bar-label { font-size:9px; letter-spacing:0.1em; text-transform:uppercase; color:var(--muted); width:60px; flex-shrink:0; }
+  .bar-track { flex:1; height:3px; background:rgba(255,255,255,0.06); border-radius:2px; overflow:hidden; }
+  .bar-fill { height:100%; border-radius:2px; transition:width 0.8s cubic-bezier(0.22,1,0.36,1); }
+  .bar-fill.jd  { background:var(--accent); }
+  .bar-fill.qty { background:var(--green); }
+  .bar-fill.skl { background:var(--accent2); }
+  .bar-val { font-size:10px; font-weight:600; width:28px; text-align:right; flex-shrink:0; }
+  .rank-score-wrap { display:flex; flex-direction:column; align-items:center; justify-content:center;
+    background:var(--surface); border:1px solid var(--border); border-radius:10px;
+    padding:12px 16px; min-width:68px; flex-shrink:0; }
+  .rank-score-num { font-family:'Space Grotesk',sans-serif; font-size:22px; font-weight:700; line-height:1; }
+  .rank-score-lbl { font-size:8px; letter-spacing:0.15em; text-transform:uppercase; color:var(--muted); margin-top:4px; }
+
+  @keyframes fadeDown { from{opacity:0;transform:translateY(-20px)} to{opacity:1;transform:translateY(0)} }
+  @keyframes fadeUp   { from{opacity:0;transform:translateY(20px)}  to{opacity:1;transform:translateY(0)} }
+  @keyframes pulse    { 0%,100%{opacity:1} 50%{opacity:0.3} }
+  @keyframes spin     { to{transform:rotate(360deg)} }
+  @media(max-width:540px){.lora-grid{grid-template-columns:1fr}.rank-card{flex-wrap:wrap}.rank-score-wrap{width:100%;flex-direction:row;justify-content:space-between;gap:8px}}
+</style>
+</head>
+<body>
+<div class="glow-orb one"></div>
+<div class="glow-orb two"></div>
+<div class="wrapper">
+
+  <!-- ── HEADER ── -->
+  <header>
+    <div class="badge"><span class="badge-dot"></span>HR Intelligence System</div>
+    <h1>CV <strong>Analysis</strong><br/>Agent</h1>
+    <p class="subtitle">Upload a CV — choose an analysis — get instant results</p>
+  </header>
+
+  <!-- ── SINGLE CV SECTION ── -->
+  <div class="upload-zone" id="uploadZone">
+    <div class="upload-icon-wrap">
+      <svg class="upload-icon-svg" viewBox="0 0 24 24">
+        <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+        <polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/>
+      </svg>
+    </div>
+    <div class="upload-title">Drop your CV here</div>
+    <div class="upload-sub">Supports PDF and TXT files</div>
+    <label class="upload-btn" for="fileInput">Browse files</label>
+    <input type="file" id="fileInput" accept=".pdf,.txt"/>
+  </div>
+
+  <div class="file-preview" id="filePreview">
+    <div class="file-icon-wrap">
+      <svg class="file-icon-svg" viewBox="0 0 24 24">
+        <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
+        <polyline points="14 2 14 8 20 8"/>
+      </svg>
+    </div>
+    <div class="file-info">
+      <div class="file-name" id="fileName">—</div>
+      <div class="file-size" id="fileSize">—</div>
+    </div>
+    <button class="file-remove" id="fileRemove">
+      <svg viewBox="0 0 24 24"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+    </button>
+  </div>
+
+  <div class="section-label">Choose Analysis Type</div>
+  <div class="lora-grid">
+    <div class="lora-card" data-task="classify">
+      <div class="lora-num">LORA 01</div><div class="lora-name">Classify</div>
+      <div class="lora-desc">Categorize the CV into the right job role.</div>
+      <div class="lora-check"><svg viewBox="0 0 12 12"><polyline points="2 6 5 9 10 3"/></svg></div>
+    </div>
+    <div class="lora-card" data-task="skills">
+      <div class="lora-num">LORA 02</div><div class="lora-name">Skills</div>
+      <div class="lora-desc">Extract and categorize all skills from the CV.</div>
+      <div class="lora-check"><svg viewBox="0 0 12 12"><polyline points="2 6 5 9 10 3"/></svg></div>
+    </div>
+    <div class="lora-card" data-task="interview">
+      <div class="lora-num">LORA 03</div><div class="lora-name">Interview</div>
+      <div class="lora-desc">Generate tailored interview questions and answers.</div>
+      <div class="lora-check"><svg viewBox="0 0 12 12"><polyline points="2 6 5 9 10 3"/></svg></div>
+    </div>
+    <div class="lora-card" data-task="improve">
+      <div class="lora-num">LORA 04</div><div class="lora-name">Improve</div>
+      <div class="lora-desc">Get suggestions to improve the CV's impact.</div>
+      <div class="lora-check"><svg viewBox="0 0 12 12"><polyline points="2 6 5 9 10 3"/></svg></div>
+    </div>
+  </div>
+
+  <div class="full-option" id="fullOption">
+    <div class="full-check"><svg viewBox="0 0 12 12"><polyline points="2 6 5 9 10 3"/></svg></div>
+    <div><div class="full-label">Run All 4 LoRAs</div><div class="full-sub">Classify + Skills + Interview + Improve</div></div>
+    <span class="full-badge">Full Pipeline</span>
+  </div>
+
+  <button class="run-btn" id="runBtn" disabled>
+    <span class="btn-text">Run Analysis</span>
+    <span class="btn-spinner"><span class="spinner-ring"></span></span>
+  </button>
+  <div class="error-box" id="errorBox"></div>
+  <div class="results-section" id="resultsSection" style="display:none;"></div>
+
+  <!-- ── DIVIDER ── -->
+  <div class="divider"></div>
+
+  <!-- ── RANK SECTION ── -->
+  <div class="rank-section">
+    <div class="badge" style="border-color:rgba(0,184,148,0.2);color:var(--green);margin-bottom:20px;">
+      <span class="badge-dot" style="background:var(--green);animation-delay:0.5s;"></span>Compare &amp; Rank
+    </div>
+    <h1 style="margin-bottom:10px;">CV <strong style="color:var(--green);">Ranking</strong></h1>
+    <p class="subtitle" style="margin-bottom:32px;">Upload multiple CVs — add a job description — get a ranked leaderboard</p>
+
+    <!-- Multi-file drop -->
+    <div class="rank-drop-zone" id="rankDropZone">
+      <div class="upload-icon-wrap" style="margin:0 auto 14px;">
+        <svg class="upload-icon-svg" viewBox="0 0 24 24">
+          <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+          <polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/>
+        </svg>
+      </div>
+      <div class="upload-title">Drop multiple CVs here</div>
+      <div class="upload-sub" style="margin-bottom:18px;">Upload 2 or more CVs to compare</div>
+      <label class="upload-btn" style="border-color:rgba(0,184,148,0.25);color:var(--green);" for="rankFileInput">Browse files</label>
+      <input type="file" id="rankFileInput" accept=".pdf,.txt" multiple style="display:none"/>
+    </div>
+
+    <div class="rank-files-list" id="rankFilesList"></div>
+
+    <!-- JD textarea -->
+    <div class="section-label">Job Description (optional)</div>
+    <textarea class="rank-jd" id="rankJD"
+      placeholder="Paste the job description here to improve ranking accuracy...&#10;e.g. We are looking for a Senior Data Scientist with 5+ years experience in Python, ML, and NLP..."></textarea>
+
+    <!-- Rank button -->
+    <button class="rank-btn" id="rankBtn" disabled>
+      <span class="btn-text">Rank CVs</span>
+      <span class="btn-spinner"><span class="spinner-ring" style="border-top-color:#070710;border-color:rgba(7,7,16,0.25);"></span></span>
+    </button>
+    <div class="rank-error" id="rankError"></div>
+
+    <!-- Results -->
+    <div class="rank-results" id="rankResults"></div>
+  </div>
+
+</div>
+<script>
+  const API_BASE = '';
+  function escapeHtml(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
+
+  /* ══════════════════════════════════════════
+     SINGLE CV ANALYSIS
+  ══════════════════════════════════════════ */
+  let selectedFile=null, selectedTask=null;
+  const uploadZone=document.getElementById('uploadZone'),
+        fileInput=document.getElementById('fileInput'),
+        filePreview=document.getElementById('filePreview'),
+        fileName=document.getElementById('fileName'),
+        fileSize=document.getElementById('fileSize'),
+        fileRemove=document.getElementById('fileRemove'),
+        runBtn=document.getElementById('runBtn'),
+        errorBox=document.getElementById('errorBox'),
+        resultsSection=document.getElementById('resultsSection');
+
+  uploadZone.addEventListener('dragover',e=>{e.preventDefault();uploadZone.classList.add('dragover');});
+  uploadZone.addEventListener('dragleave',()=>uploadZone.classList.remove('dragover'));
+  uploadZone.addEventListener('drop',e=>{e.preventDefault();uploadZone.classList.remove('dragover');if(e.dataTransfer.files[0])setFile(e.dataTransfer.files[0]);});
+  uploadZone.addEventListener('click',e=>{if(e.target!==fileInput&&!e.target.classList.contains('upload-btn'))fileInput.click();});
+  fileInput.addEventListener('change',()=>{if(fileInput.files[0])setFile(fileInput.files[0]);});
+
+  function setFile(f){
+    if(!f.name.match(/\.(pdf|txt)$/i)){showError('Only PDF and TXT files are supported.');return;}
+    selectedFile=f;fileName.textContent=f.name;fileSize.textContent=(f.size/1024).toFixed(1)+' KB';
+    filePreview.classList.add('show');uploadZone.style.display='none';clearError();checkReady();
+  }
+  fileRemove.addEventListener('click',()=>{selectedFile=null;fileInput.value='';filePreview.classList.remove('show');uploadZone.style.display='';checkReady();});
+
+  document.querySelectorAll('.lora-card').forEach(card=>{
+    card.addEventListener('click',()=>{
+      document.querySelectorAll('.lora-card,.full-option').forEach(c=>c.classList.remove('active'));
+      card.classList.add('active');selectedTask=card.dataset.task;checkReady();
+    });
+  });
+  document.getElementById('fullOption').addEventListener('click',()=>{
+    document.querySelectorAll('.lora-card,.full-option').forEach(c=>c.classList.remove('active'));
+    document.getElementById('fullOption').classList.add('active');selectedTask='full';checkReady();
+  });
+
+  function checkReady(){runBtn.disabled=!(selectedFile&&selectedTask);}
+
+  runBtn.addEventListener('click',async()=>{
+    if(!selectedFile||!selectedTask)return;
+    clearError();resultsSection.style.display='none';resultsSection.innerHTML='';
+    runBtn.classList.add('loading');runBtn.disabled=true;
+    const formData=new FormData();formData.append('file',selectedFile);
+    try{
+      const url=selectedTask==='full'?`${API_BASE}/cv/upload/full`:`${API_BASE}/cv/upload?task=${selectedTask}`;
+      const res=await fetch(url,{method:'POST',body:formData});
+      if(!res.ok){const err=await res.json().catch(()=>({detail:res.statusText}));throw new Error(err.detail||'Server error');}
+      renderResults(await res.json(),selectedTask);
+    }catch(err){showError(err.message);}
+    finally{runBtn.classList.remove('loading');runBtn.disabled=false;}
+  });
+
+  const taskMeta={
+    classify:{label:'Classification',tag:'tag-classify'},
+    skills:{label:'Skills',tag:'tag-skills'},
+    interview:{label:'Interview Qs',tag:'tag-interview'},
+    improve:{label:'Improvements',tag:'tag-improve'},
+  };
+  function renderResults(data,task){
+    resultsSection.innerHTML='';
+    (task==='full'?['classify','skills','interview','improve']:[task]).forEach(t=>{
+      const meta=taskMeta[t],content=data[t]||data.result||'—',elapsed=data.elapsed_s?`${data.elapsed_s}s`:'';
+      const block=document.createElement('div');block.className='result-block';
+      block.innerHTML=`<div class="result-header"><span class="result-tag ${meta.tag}">${meta.label}</span>${elapsed?`<span class="result-meta">${elapsed}</span>`:''}</div><div class="result-body">${escapeHtml(content)}</div>`;
+      resultsSection.appendChild(block);
+    });
+    resultsSection.style.display='block';resultsSection.scrollIntoView({behavior:'smooth',block:'start'});
+  }
+  function showError(msg){errorBox.textContent=msg;errorBox.classList.add('show');}
+  function clearError(){errorBox.classList.remove('show');errorBox.textContent='';}
+
+  /* ══════════════════════════════════════════
+     CV RANKING
+  ══════════════════════════════════════════ */
+  let rankFiles=[];
+  const rankDropZone=document.getElementById('rankDropZone'),
+        rankFileInput=document.getElementById('rankFileInput'),
+        rankFilesList=document.getElementById('rankFilesList'),
+        rankBtn=document.getElementById('rankBtn'),
+        rankError=document.getElementById('rankError'),
+        rankResults=document.getElementById('rankResults');
+
+  rankDropZone.addEventListener('dragover',e=>{e.preventDefault();rankDropZone.style.borderColor='rgba(0,184,148,0.4)';});
+  rankDropZone.addEventListener('dragleave',()=>rankDropZone.style.borderColor='');
+  rankDropZone.addEventListener('drop',e=>{
+    e.preventDefault();rankDropZone.style.borderColor='';
+    [...e.dataTransfer.files].forEach(addRankFile);
+  });
+  rankDropZone.addEventListener('click',e=>{
+    if(!e.target.classList.contains('upload-btn'))rankFileInput.click();
+  });
+  rankFileInput.addEventListener('change',()=>{[...rankFileInput.files].forEach(addRankFile);rankFileInput.value='';});
+
+  function addRankFile(f){
+    if(!f.name.match(/\.(pdf|txt)$/i))return;
+    if(rankFiles.find(x=>x.name===f.name))return;
+    rankFiles.push(f);renderChips();
+  }
+  function removeRankFile(name){
+    rankFiles=rankFiles.filter(f=>f.name!==name);renderChips();
+  }
+  function renderChips(){
+    rankFilesList.innerHTML=rankFiles.map(f=>`
+      <span class="file-chip">
+        <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
+          <polyline points="14 2 14 8 20 8"/>
+        </svg>
+        ${escapeHtml(f.name)}
+        <span class="file-chip-x" onclick="removeRankFile('${escapeHtml(f.name)}')">✕</span>
+      </span>`).join('');
+    rankBtn.disabled=rankFiles.length<2;
+    rankDropZone.classList.toggle('has-files',rankFiles.length>0);
+  }
+
+  rankBtn.addEventListener('click',async()=>{
+    if(rankFiles.length<2)return;
+    rankError.classList.remove('show');rankResults.innerHTML='';
+    rankBtn.classList.add('loading');rankBtn.disabled=true;
+
+    const formData=new FormData();
+    rankFiles.forEach(f=>formData.append('files',f));
+    const jd=document.getElementById('rankJD').value.trim();
+    if(jd)formData.append('jd',jd);
+
+    try{
+      const controller=new AbortController();
+      const tid=setTimeout(()=>controller.abort(),300000);
+      const res=await fetch(`${API_BASE}/cv/rank`,{method:'POST',body:formData,signal:controller.signal});
+      clearTimeout(tid);
+      if(!res.ok){const err=await res.json().catch(()=>({detail:res.statusText}));throw new Error(err.detail||'Server error');}
+      renderRankResults(await res.json());
+    }catch(err){
+      rankError.textContent=err.name==='AbortError'?'Request timed out — try fewer CVs':err.message;
+      rankError.classList.add('show');
+    }finally{
+      rankBtn.classList.remove('loading');rankBtn.disabled=rankFiles.length<2;
+    }
+  });
+
+  function scoreColor(v){
+    if(v>=75)return'var(--green)';
+    if(v>=50)return'var(--accent)';
+    return'var(--accent2)';
+  }
+
+  function renderRankResults(data){
+    if(!data.results||!data.results.length){rankError.textContent='No results returned.';rankError.classList.add('show');return;}
+    rankResults.innerHTML=data.results.map(r=>{
+      const mc=r.rank<=3?`medal-${r.rank}`:'medal-n';
+      const sc=scoreColor(r.score);
+      const hasJD=data.has_jd;
+      return `
+        <div class="rank-card">
+          <div class="rank-medal ${mc}">${r.rank}</div>
+          <div class="rank-info">
+            <div class="rank-fname">${escapeHtml(r.filename)}</div>
+            <div class="rank-summary">${escapeHtml(r.summary||'—')}</div>
+            <div class="rank-bars">
+              ${hasJD?`<div class="bar-row">
+                <span class="bar-label">JD Match</span>
+                <div class="bar-track"><div class="bar-fill jd" style="width:${r.jd_match||0}%"></div></div>
+                <span class="bar-val" style="color:var(--accent)">${r.jd_match||0}</span>
+              </div>`:''}
+              <div class="bar-row">
+                <span class="bar-label">Quality</span>
+                <div class="bar-track"><div class="bar-fill qty" style="width:${r.quality||0}%"></div></div>
+                <span class="bar-val" style="color:var(--green)">${r.quality||0}</span>
+              </div>
+              <div class="bar-row">
+                <span class="bar-label">Skills</span>
+                <div class="bar-track"><div class="bar-fill skl" style="width:${r.skills||0}%"></div></div>
+                <span class="bar-val" style="color:var(--accent2)">${r.skills||0}</span>
+              </div>
+            </div>
+          </div>
+          <div class="rank-score-wrap">
+            <div class="rank-score-num" style="color:${sc}">${r.score}</div>
+            <div class="rank-score-lbl">Score</div>
+          </div>
+        </div>`;
+    }).join('');
+    rankResults.scrollIntoView({behavior:'smooth',block:'start'});
+  }
+</script>
+</body>
+</html>

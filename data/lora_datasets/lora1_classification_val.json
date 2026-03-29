@@ -1,0 +1,1242 @@
+[
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "SALES ADVISOR Career Overview Motivated customer service specialist with over 30 years of retail experience in a fast-paced, team-based environment. Core Strengths Creative problem solver MS Windows proficient Quick learner Trusted key holder Exceptional communication skills Work Experience 01/2011 to Current Sales Advisor Company Name ï¼​ City , State Prepare, present, and encourage sales of specific items: food- hot and cold; household items- air freshners, detergents, etc.; and appliances- coffee makers, soda machines, etc. Have successfully met and exceeded sales' goals. Have also 'Sold ou",
+    "output": "SALES"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "CONSTRUCTION BOOKKEEPER Summary Accounting Professional offering 13 years experience in bookkeeping and an effective, analytical approach to identifying and solving complex problems. Highlights Intuit QuickBooks specialist General ledger accounting skills Ethical approach to finance Strong communication skills Complex problem solving Accounting operations professional Fiscal budgeting knowledge Managerial aptitude Manufacturing and job costing experience Proficient in outlook, excel, word Broad knowledge of office equipment Excellent computer skills Web Savvy Benefits and 401 k administration",
+    "output": "CONSTRUCTION"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "PARK OPERATIONS HOSTESS Summary Highly experienced in banking, customer service, data entry, publicity, editing, and a wide range of computer skills Software (PC and MAC environments): Computerized cash registers, invoice, scheduling, and inventory software, Microsoft WindowsÂ® and Microsoft Word, Excel, OneNote, PowerPoint and Photoshop. A strong literary background coupled with up-to-date technological knowledge. Highlights Software (PC and MAC environments): Microsoft WindowsÂ® and Microsoft Word, PowerPoint, Excel and Publisher Time management Meticulous attention to detail Excellent commu",
+    "output": "BANKING"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "HR MANAGER/GENERALIST Summary Background of progressively responsible Human Resources experience in union and non-union, ISO and FDA regulated manufacturing environments Knowledge of State and Federal employment laws Ability to work effectively with all levels of employees and management, maintaining integrity, professionalism and confidentiality Ability to develop positive working relationships with TPAs, benefit service providers, recruiting firms and vendors Proficient in Excel, Word, Powerpoint; experience with Ceridian HRIS, Paychex and ADP payroll systems Experience HR Manager/Generalist",
+    "output": "HR"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "SENIOR PRODUCT DEVELOPMENT MANAGER Summary PRODUCT DEVELOPMENT, SOURCING AND RETAIL PROFESSIONAL Â Â Â Â Â  Â  Respected Retail Professional who leverages expertise in production, negotiation, supplier management, and relationship building skills, to drive and deliver solid business results. Highly adept with workingÂ with cross-functional teams and key stakeholders to maximize business opportunities . Strong leadership skills, demonstrated success with managing initiatives of varying scope and sizes, and working collaboratively for optimal results. Skills Team LeadershipÂ  Global ExperienceÂ",
+    "output": "APPAREL"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "INTERNATIONAL CERTIFICATION PROGRAM MANAGEMENT Profile I am an experienced professional with 14 years of aviation & aerospace with expertise in international governmental liaison, aircraft certification, regulatory compliance, aircraft sales and import/export compliance. As a professional pilot with over 800 hours of total time, multi-tasking, problem solving and risk management are a foundation of my career. Skills Substantial knowledge of all Microsoft Windows operating systems and MS Office NX7.5 Unigraphics Teamcenter. Moderate knowledge of computer networking including LAN, WLAN. Domestic",
+    "output": "AVIATION"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "PUBLIC RELATIONS SPECIALIST Professional Summary Public relations and communications specialist adept at media relations, special events coordination, issues management and community relations. Skills Deadline-oriented Strong creative vision Event planning Strong communication skills Media relations Communications management Natural leader Creative writing Diversity trainer Strategy development Public Relations Information gathering Work History Public Relations Specialist , 09/2019 to Current  Company Name â€“ City , State  Generated and implemented media pitches for clients in Entertainment,",
+    "output": "PUBLIC-RELATIONS"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "AVIATION OPERATION SPECIALIST Summary Pursuing a position as a Client Support Specialist II, along with the opportunity to achieve and maintain the highest level of customer service, data compilation, and team excellence. Highlights Staff training and development New employee orientations Microsoft Office Suite expert Attention to detail Maintains confidentiality People-oriented Organized Exceptional communicator Secret Security Clearance (Clearable) Accomplishments Awarded with good conduct medal for excellent military service Awarded (2) Army Achievement Medals. Experience Aviation Operation",
+    "output": "AVIATION"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "BUSINESS DEVELOPMENT MANAGER Summary Business Development Manager & Talent Acquisition Specialist equipped with the excellent negotiation skills, market insight and business acumen necessary to guide struggling and newly-formed companies to financial success. Motivated BDM & Recruiter adept at business prospect research, product promotion and account expansion in the Information Technology (IT) market. Business Development Analyst skilled at advising large corporations on business logistics, including talent acquisition retention and operational efficiency with major projects meeting deadlines",
+    "output": "BUSINESS-DEVELOPMENT"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "HOSPITAL & PHYSICIAN BILLING SPECIALIST Professional Summary HIGHLY-ORGANIZED PROFESSIONAL WHO EXCELS AT ASSISTING HEALTHCARE PROVIDERS WITH BILLING MANAGEMENT & CODING SUPPORT. WELL-ROUNDED TEAM PLAYER WITH A STRONG TRACK RECORD OF WORKING IN COLLABORATIVE ENVIRONMENTS, AND DRIVING BOTTOM LINE GROWTH THROUGH REDUCING OUTSTANDING RECEIVABLES. EXCELLENT COMMUNICATOR AND FREELANCE HEALTHCARE MARKETING CONSULTANT WHO EXCELS AT ESTABLISHING A RAPPORT WITH CLIENTS FROM DIVERSE BACKGROUNDS. PROBLEM SOLVER WHO EXERCISES CRITICAL THINKING, AND PERFORMS WORK AHEAD OF SCHEDULE. SEEKS TO TRANSITION INTO",
+    "output": "HEALTHCARE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "PRODUCTION CONTROL / SR. MERCHANDISER Summary Seeking fulltime/contract position where I can use my engineering, management background, Operation knowledge, merchandising and analytical skills at the most. Skills MS Excel: Pivot table, Hlook up; Vlookup, moderate macros, advanced functions. Access, MS Word, MS PowerPoint, MS Outlook., SAP Accomplishments Taken training on different type of stitching machines like SNLS, DNLS, F-O-A, W/B attaching machine, 5-thread, 3-thread, bar tack, zigzag machine and many more. Worked in washing dept. PPC in washing department, and also handling production o",
+    "output": "APPAREL"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "CONSTRUCTION MANAGER II Summary Excellent supervisory and organizational skills with the ability to effectively handle multiple ongoing events and time critical projects. Flexible, fast-learner who adapts quickly to new situations and enjoys working in a team setting. Strong customer service abilities and accustomed to working with a broad spectrum of personalities. Â  Skills Managing large crews Forklift and HAZMAT certified Safe job site set-up Power and hand tool operation Organized and detail-oriented Quality control Baseline schedules creation Blueprint fluency MS Office proficient Superb",
+    "output": "CONSTRUCTION"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "CONSULTANT Profile Results driven and team oriented reservoir engineer with extensive experience in reservoir management, enhanced oil recovery, reserve evaluation, integrated reservoir modeling, compositional simulation, economic analysis, geomechanics, and project management, looking to utilize his diverse analytical and research skills in a challenging role. Fluent in English and French. Has experience working with professionals of different technical and cultural backgrounds. Skills Pressure and rate transient analyses Decline curve analysis (Fekete Harmony) Volumetrics and material balanc",
+    "output": "CONSULTANT"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "GROUP FITNESS INSTRUCTOR Summary My passion is to inspire class members to get fit & stay fit. I believe that Yoga is a key element of fitness along with strength & cardio training that leads to a long & happy fulfilled life. My classes are fun, yet challenging and engaging that encourage all participants to feel good about themselves and come back for more. Skills AFAA Group Exercise Boot Camp Training Running 101 AFAA - Step Certification AFAA - Kickboxing Certification YogaFit Certified - Level 1 Les Mills - Body Pump 42 BTS - Group Power Les Mills - Body Attack 51 Spinning Les Mills - Body",
+    "output": "FITNESS"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "FINANCE ASSISTANT Professional Summary College graduate offers strong technical skills and ability to learn concepts quickly. Proven ability to manage multiple assignments while meeting tight deadlines. Experience in data analysis, economic forecasting, advanced problem solving, collaborative research and presentation skills, customer service. Skills Work History Finance Assistant 06/2013 to 09/2013  Company Name â€“ City , State  Prepare financial statements, maintain accurate records in a database, generate reports and present data. Enter revenue and expense transactions and prepare expense",
+    "output": "FINANCE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "CONSULTANT Profile A highly accomplished, skilled and talented Consulting manager with a thorough understanding of the Software development Life Cycle and a proven track record of successfully providing overall direction to project teams and managing client relationship. Professional Experience Consultant , 01/2001 to 11/2014 Company Name ï¼​ City , State Led a data migration project for a client P & C insurance company from a legacy client server insurance system with a relational backend to a n-tiered insurance system which involved the entire gamut of activities from defining requirements,",
+    "output": "CONSULTANT"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "INFORMATION TECHNOLOGY SPECIALIST Summary Highly skilled and results-oriented IT specialistÂ with extensive experience in Software Development, Software Configuration Management, Project Management, System Planning & Specification Development, CMMI5, Quality Assurance and Testing.Â  Highlights Process improvement Quality assurance and control Results-oriented Relationship building Productivity improvement Project development and lifecycle Detail-oriented Work flow planning Experience Information Technology Specialist  August 2006 to Current Company Name Track and control over 150 change reques",
+    "output": "INFORMATION-TECHNOLOGY"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "PROJECT COORDINATOR ASSOCIATE Professional Summary Â CES Talent Management AssociateÂ successful at designing company-wide onboarding, orientation and mentoring programs. Team-oriented Training and Development Coordinator who efficiently develops training processes and procedures for human resources teams. Skills New hire on-boarding Training solutions development Time management Highly organized Work History Project Coordinator Associate 06/2014 to Current  Company Name â€“ City , State  WAG Ambassador Team Installation Quality Audit Reports: Coordinate tracking the Installation Quality Audit",
+    "output": "ARTS"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "SALES ASSOCIATE Objective To obtain a position with a growing company while promoting quality customer service and performing tasks provided efficiently. Core Strengths Approachable Flexible Dedicated team player Reliable and dependable Work Experience 04/2016 to Current Personal Trainer & Fitness Instructor Company Name - City , State Suggested exercise modifications to individual students to avoid strain and. injury. Teach Circuit classes, Advanced Dance Fitness, and a Booty Builder class 06/2015 to 04/2016 Fitness Instructor Company Name - City , State Taught Dance Fitness, Spin and Power.",
+    "output": "FITNESS"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "DOMESTIC VIOLENCE COUNSELOR ADVOCATE Summary I am a responsible self-starter who communicates well and is dedicated to providing great customer service and staff support. I am comfortable working autonomously or in a team-based setting. I am both calm andÂ focused, greatÂ at prioritizing, completing multiple tasks simultaneously and following through to achieve project goals.Â  Experience 01/2015 - Current Company Name ï¼​ City , State Domestic Violence Counselor Advocate The nonprofit organization that I work for has had a contract with the Department of Children and Family Services of San Be",
+    "output": "ADVOCATE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "LEAD COOK (COOK III) Summary Charles Hundley has well over nine years of overall cooking and kitchen experience. Four years of lead cook experience. Three years as a certified trainer. He has gained various amounts of knowledge in the culinary industry and has taken his career to many different levels throughout his cooking career, though he only has minimal school training Charles has learned from various top of the line chefs including the top three chefs of The Norwegian Cruise Line's Pride Of America Executive Chef Frank D. Chef David Lilllis, and Chef Alan) These great chefs have taught C",
+    "output": "CHEF"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "DIRECTOR OF FINANCE Summary Seasoned Certified Management Accountant and financial leader with deep and broad health care industry experience in forecasting, financial planning and analysis, operations, reporting, and strategic planning Highlights CMA License #43352 Strategic and financial planning expert Experience Director of Finance 07/2002 to Current Company Name City , State Financial planning and analysis leadership and support for Consumer Service, Claims, Global Operations, Appeals and Grievances, Business Solutions Services, and Payment Integrity organizations with overall annual SG&A",
+    "output": "FINANCE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "TEACHER Summary Kind and compassionate Elementary School Teacher dedicated to creating an atmosphere that is stimulating and encouraging to all students. Enjoys using modern technology in the classroom. Highlights Texas Teaching Certificate with Early Childhood Education endorsement Urban public schools background Critical thinker Title I knowledge Curriculum development Standardized testing techniques Learning assessments IEPs knowledge Decisive Flexible and adaptive Calm under pressure Member of Association of Texas Professional Educators Accomplishments Worked with a committee of fellow edu",
+    "output": "TEACHER"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "INFORMATION TECHNOLOGY INTERN (TEST AUTOMATION ENGINEER) Summary Over 3 yearsÂ of experience serving as a key contributor across all software development life cycleÂ phases includingÂ analysis, architectural design, prototyping, development, and testing of applicationÂ using Java/J2EE technologies in various domains. Very good understanding of Object Oriented Programming, Data Structure, Algorithms, Design Patterns and Distributed Systems. Excellent working experience in backendÂ development using different Spring modules like Spring Core ContainerÂ Module, AOP, MVC, Security, Data, Transactio",
+    "output": "INFORMATION-TECHNOLOGY"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "Rachael Lobdell Summary . Compassionate Senior Outreach Advocate with 13 + years of experience working in public and private agencies to upgrade health and dignity within vulnerable populations. Creativeand adaptable leader dedicated to doing whatever necessary to meet client needs, including customizing established programs. Self-motivated and deeply engaged with client and supporter communities. Skills Confidential data protection Data entry Scheduling clients for evaluations for Managed Long Term Care Intake and Submission of Medicaid applications for clients Intake and submission of Pool T",
+    "output": "HEALTHCARE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "GARDEN ASSOCIATE Summary Dedicated Customer Service Representative motivated to maintain customer satisfaction and contribute to company success. Â  Highlights Exceptional customer service Bilingual in [Spanish] Sales expertise Reliable Strong work ethic Team player Excellent communication skills Flexible Accomplishments Best Cashier in District award 3 Homer awards received for good customer skills/going above and beyond on basic job expectations. Experience 02/2010 to 09/2013 Garden Associate Company Name ï¼​ City , State Helped customers select products that best fit their personal needs. M",
+    "output": "CONSTRUCTION"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "CONSULTANT Career Overview Experienced self-starter who is highly customer service-oriented, organized and possesses strong time management skills. Qualified Customer Service Rep with 13 years in a detail-oriented customer service and call center environments; offering a record of successful job performance through problem solving and experience developing and implementing innovative solutions. Core Strengths Seasoned in conflict resolution Telephone inquiries specialist Active listening skills System checks and troubleshooting Resourceful PC expert Windows XP/Vista Service solutions expert Ex",
+    "output": "CONSULTANT"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "SUPERVISOR, ACCOUNTANT Professional Summary Motivated sales professional with 10+ years sales representative experience. Customer service and sales expert. Qualified with 10 plus years in fast-paced customer service and call center environments. Warehouse Worker with 1 year. Machine Operator with 5 years experience reviewing work orders and running several different machines simultaneously in a 5S environment. Experience in a warehouse pick/pack fulfillment and distribution environment. Machine Operator with positive attitude and a commitment to safety, quality, customer service and lean manuf",
+    "output": "ACCOUNTANT"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "CONSTRUCTION & RESIDENTIAL CLEANING Professional Summary Detail-oriented professional with strong technical skills and the ability to learn concepts quickly. Core Qualifications Detail oriented Planning/coordinating Team leadership Courteous demeanor Active listening skills Inventory control familiarity Engaging personality Excellent multi-tasker Fluent in Spanish Decision making skills Self-directed Shipping and receiving Safety-oriented Production scheduling Opening/closing procedures Dependable and reliable Reliable team worker Neat, clean and professional appearance Comfortable standing fo",
+    "output": "CONSTRUCTION"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "Z SALES CONSULTANT Summary Highly motivated, competitive, sales consultant seeking opportunity with long-term growth potential through integrity sales success, building relationships and developing the business Performance Skills *Account Penetration *Adaptability *Identify and create new business opportunities *Brain lab navigation experience *Demonstrating Products *Product Launch *Account Relationships *Confident clinical expertise Snap Shot Sales Consultant  City , State Company Name / Jun 2013 to Current Cultivate relationships with surgeons while covering procedures with clinical profici",
+    "output": "SALES"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "ENGINEERING MANAGER Summary To design, develop and manage products in the field of consumer electronics devices, networking protocols, internet applications and connected devices. Vision to create personalized experiences based on machine learning. Highlights Linux, Unix, RTOSs - OS 9 & VxWorks, DOS, MS- Windows, Socs related to media players and set tops -- Broadcom, Intel, STMicro, Sigma DesignÂ  Microprocessors/micro controllers -- ARM, MIPS, 8088, 8087, 8031, 8051 Digital and analog hardware Streaming, playback, Live, VOD, HLS, MP4  HTML5 MSE. EME, Video tag, MHP, OCAP, Blu-ray, BD-J, java",
+    "output": "ENGINEERING"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "SALES ASSOCIATE Summary To further my career in sales, customer satisfaction and growÂ in business development. Highlights Bi-lingualÂ  Exceptional customer service skills Established track record of exceptional sales results Compelling leadership skills Trained in business development Accomplishments Awarded 4 times bestÂ Sales RepresentativeÂ on a row in 2014,Awarded customer services excellence twice in 2014 andÂ Awarded Top Sales Rep for 2015Â  Experience Sales Associate  September 2017 to Current Company Name ï¼​ City , State exceed sales goals by up to 224%Â byÂ implementingÂ strategic s",
+    "output": "SALES"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "GUEST TEACHER Floral Designerwrite your own title I am a certified professional floral designer mentored by an AIFD founding member. I have participated and been a finalist in several National Competitions. I have owned my own business in Las Vegas starting at The Tropicana Hotel and built my businesses to the Las Vegas Hilton and Caesar's Palace. I have innovated different buying practices by utilizing national and international auctions when supply was low and demand was high. Highlights Skills Used Acquired fresh flowers from growers in both National and International regions Chose containe",
+    "output": "TEACHER"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "FINANCE AND ACCOUNTING SPECIALIST Experience Finance And Accounting Specialist , 11/2005 to 11/2017  Company Name â€“ City , State  Collaborated extensively with auditors during preliminary and year-end audit processes. Reconciled financial accounts using Innoprise software. Assisted in the implementation of Innoprise and Water software. Managed all payments processing, invoicing and collections tasks. Processed invoice payments and recorded information in account database. Increased customer satisfaction by greeting visitors promptly and professionally. Improved communication efficiency as pr",
+    "output": "FINANCE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "INTERNAL AUDIT MANAGER Summary Dedicated auditing professional with the accomplished ability to work independently and as a team member to successfully achieve project goals and objectives. Highlights Information System Audit and Control Association (ISACA) Sarbanes-Oxley Project risk and controls Business process review The Institute of Internal Auditors (IIA) Risk management expertise Strong client engagement Experience Internal Audit Manager 08/2012 to Current Company Name City , State Effectively executed complex post-acquisition audits for Software as a Service (SaaS) acquisitions includi",
+    "output": "APPAREL"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "EXECUTIVE CHEF Professional Summary Executive Chef Â with 20 Â years of experience cooking in American, Mexican, Asian, French and SeafoodÂ environments. Prior work as prep cook, line chef, and sous chef.  Energetic culinary professional with a blend of creativity, passion for food and exceptional cooking skills. Works well as a dynamic leader in high- pressure settings.  Bilingual ChefÂ with 20Â years in cooking, hiring and training staff, creating schedules and managing labor costs.  Executive Chef possessing an innate skill in creating exceptional menu items. Leads productive working enviro",
+    "output": "CHEF"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "MARKETING COORDINATOR Professional Profile Results-orientedÂ Marketing proffesionalÂ who drives company growth through creative and innovative marketing strategies.Â  Qualifications Tactical Planning Marketing and sales specialist  Retail Marketing Organized and efficient  Advanced computer proficiency (both PC and Mac)  Customer Relationship Management (CRM) Excellent communication skills Goal-oriented Business negotiation Inspiring team leader Bilingual in English - Spanish Financial reporting Effective team player Creative Experience Marketing Coordinator Jul 2012 to Apr 2016  Company Name",
+    "output": "PUBLIC-RELATIONS"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "NATIONAL SALES MANAGER Summary It is my desire to advance my professional development through marrying the management, purchasing, and guest-oriented skills honed over a 20 year professional career in educational musical sales with a teaching passion that began with 6 plus years as an educator. Highlights Innovative teaching methods Leadership/communication skills IMEA member Board of Education member Client account management Midwest Band and Orchestra Annual Clinic Exhibitor Employee relations Vendor relations Self-motivated Committed to cultivating a successful team Customer-oriented Accomp",
+    "output": "ARTS"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "YOGA INSTRUCTOR Summary Creative, warm professional with exceptional people skills and a strong ability to build relationships.Â Dedicated supporter of team,Â driven to accomplish team and individual goals.Â Possess the qualities required for building a strong, satisfied employee base. Highlights Enthusiastic Warm Engaging Problem solver Accountable Networking Relationship building Teaching and presentation Negotiation Love for community and what it has to offer Education Master in Teaching 2010 Heritage University ï¼​ City , State Â K-8 Endorsement Bachelor of Arts , Law and Justice 1996 Cent",
+    "output": "FITNESS"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "SALES Career Overview Executive Assistant who is skilled at multi-tasking and maintaining a strong attention to detail. Employs professionalism and superior communication skills to meet client and company needs. Skill Highlights Time management Meticulous attention to detail Microsoft Office proficiency Invoice processing Travel administration Scheduling Self-starter Meeting planning Core Accomplishments Calendaring Â  Planned all meetings and travel for CEO. Scheduling Â  Facilitated onboarding of new employees by scheduling training, answering questions and processing paperwork. Process Impr",
+    "output": "SALES"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "TEACHER Summary Talented early education professional with diverse experience in planning and implementing various activities for promoting physical, social, emotional and intellectual growth of children.[Job Title] capable of remaining calm under pressure while continuing to keep the preschool setting light and playful. Will work hard to identify and communicate behavioral and educational issues.Open-minded [Job Title] talented at incorporating a blend of traditional and progressive techniques into daily activities. Facilitates clear communication between children, parents and fellow staff.Cr",
+    "output": "TEACHER"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "FLIGHT MANAGER Summary I am an enthusiastic, fun and dedicated professional with exceptional communication, account management and conflict resolution skills. I have a passion for building relationships and providing exceptional customer service. Motivated by competition, Self-starter, and an effective team member. Highlights Professional Summary Core Qualifications Negotiation De-escalation Customer Service Conflict Resolution Account Management Time Management Sales International Logistics Project Management Strong interpersonal skills Skilled in MS Office Customer-oriented Skilled multi-tas",
+    "output": "AVIATION"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "PRE-PRESS GRAPHIC DESIGNER Summary Creative, hardworking designer seeking a full-time desktop job, educated as a graphic artist, past experience in business world as a desktop publisher laying out designs for printed mail and advertisements, in local government designing new websites with graphics for different agencies within the system, and later for the same government printing and reproduction center creating documents to be printed off a press or copiers. Skills Adobe InDesign, Photoshop, Illustrator, and Acrobat Professional Strongly familiar with Microsoft Word, Excel, PowerPoint, and P",
+    "output": "DESIGNER"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "DIRECTOR/PRESIDENT - MINTURN FITNESS CENTER Executive Profile 21-year Internationally-regarded coaching professional, 13-year Nationally certified/accredited in Strength and Conditioning, Industry-leading Athletic Performance Executive in the field of high-performance athletic training who creates strategic alliances with organizational leaders to effectively align with and support key business initiatives. Experience with successful facility design, builds and operations. Recruits and retains high performance teams by hiring, developing and motivating skilled professionals. Provides oversight",
+    "output": "FITNESS"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "RECREATION & SPORTS COORDINATOR Objective To gain a Recreation Supervisor position so that I can provide support to professional and part time staff. I am looking for the opportunity to guide day to day operations of high quality, community recreation facilities. I hope to provide the type of support and management conducive to a healthy work environment so that all staff can not only complete their roles & responsibilities, but also provide a facility that runs efficiently and offers exceptional service to members. Qualifications ACSM Exercise Physiologist TRX Qualified Instructor Â  Personal",
+    "output": "FITNESS"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "DESIGNER Summary To get a strong foothold on the career ladder by doing the best I can and more, with a company that supports teamwork and utilizes the abilities of its employees. Highlights Excellent team working skills Â· Planning and organizing events. Â· Creativity in working. Time management skills. Â· Ability to work under pressure Â· Experienced in communicating, interacting, and building relationships with people of varying ethnic, religious, and cultural backgrounds. Computer literate and excellent typing skills. Fluency in MS Office (Word, Excel, PowerPoint, Access) and in World Wide",
+    "output": "DESIGNER"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "HR MANAGER Highlights SENIOR HUMAN RESOURCES STRATEGIST / RECRUITMENT MANAGER Talent Management | Strategic Recruitment Planning Organizational Development Top-performing Human Resources Professional with 10+ years of experience providing innovative and results-driven leadership within small and large organizations. Proven ability to effectively communicate with staff on all corporate levels, create and inspire positive relationships, and build solid teams of professional employees. Expert in designing effective recruiting strategies targeting top-quality talent, performing contract negotiatio",
+    "output": "HR"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "BUSINESS DEVELOPMENT MANAGER Professional Summary Experienced, driven and successful Sales Professional recognized for consistently growing sales revenues and profitability. Frequently selected by management to open new territories and rapidly develop sales pipelines through the use of innovative and imaginative sales and marketing programs that achieve maximum market exposure and penetration. Parlays commitment to community and passionate for causes supported into strong networking and business alliances. Proficiencies: Solution Based Sales Key Relationship Management Business Development Pro",
+    "output": "BUSINESS-DEVELOPMENT"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "EXPRESS SCRIPTS Summary Responsible and mature Retail Sales Consultant who thrives in fast-paced environments. Enjoys working as part of a team to achieve sales goals. Accomplishments Fulfilled all supervisory duties when Store Manager was on vacation. Named \"Employee of the Month\". Received numerous â€œexceeds expectationsâ€​ ratings on performance reviews. Met monthly sales goals for numerous months. Supervised team of three staff members. Experience Express Scripts  September 2015 to Current Company Name ï¼​ City , State Exercises sound judgment in issuing credits and making exceptions to c",
+    "output": "ADVOCATE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "SUPERVISORY LOGISTICS MANAGEMENT SPECIALIST Summary A target focused, highly motivated , and competent Logistics Manager with a long track record of utilizing people, personnel and financial budgets to obtain positive results. Comprehensive understanding of logistics methodology, Aviation Maintenance Management, inventory control, as well as demonstrating high standards of work practices with a safety conscious attitude. Highlights Data collection and analysis Exceptional organizational skills Analytical thinker Creative problem solver Public speaking Inventory tracking Budget management Staff",
+    "output": "AVIATION"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "VP FINANCE & IS&T Executive Profile Enterprising Finance Executive who creates strategic alliances with Senior Executives to identify and execute key business initiatives. Builds and retains high performance teams by enlisting, developing and motivating skilled professionals. Extensive experience in Financial Management and Controllership areas. Adept in both Business Process and systems to allow for utilizing technology to achieve business goals. Skill Highlights Project management Leadership/communication skills Product development Business operations organization Budgeting expertise Self-mo",
+    "output": "FINANCE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "SENIOR ACCOUNT MANAGER Professional Summary Skills Administrative Administrative support Budget Business operations Clients Customer service Senior management Fashion Inventory Logistics Managing Marketing Meetings Office Negotiating PR Pricing Reporting Sales Supervision Unique Work History SENIOR ACCOUNT MANAGER , 03/2015 to 11/2020  City , State  Dynamic professional with experience enhancing executive productivity and improving business operations. Results-driven and operates well with minimal supervision to meet demanding objectives. Seeking to apply unique abilities as an Executive Assis",
+    "output": "PUBLIC-RELATIONS"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "ENGINEERING MANAGER/SENIOR MECHANICAL DESIGNER Executive Summary Operations and Manufacturing Engineering Manager with more than 12 years of experience in high-volume global operations, support of automated production equipment and the design, layout and support of custom machinery. Proven record of leading multi-skilled teams to drive projects from pre-development through post-development cycle. Increased operational profitability by enhancing processes. Visionary, forward- looking, and pioneering with a passion for challenging projects. Leadership style is highly results-oriented. Profession",
+    "output": "ENGINEERING"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "ACCOUNTANT Summary Accomplished and results-oriented finance professionalÂ who consistently meets deadlines and increases department revenue. Highly skilled at increasing productivity through detailed cost analysis. Highlights Microsoft Office : Intermediate in all the Microsoft Office components( Excel, Word, PowerPoint, Outlook and Access); Very familiar with ( Macros, V-look ups, calculating formulas and manipulating reports as well as smart view) Running query reports and creating reports.Â  SAP PeopleSoft: Navigate within Resource one to retrieve financial reports and run queries;Financia",
+    "output": "ACCOUNTANT"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "EXECUTIVE ASSISTANT HR Summary Skillful and dedicated Executive Assistant with extensive experience in the coordination, planning and support of daily operational and administrative functions in a highly confidential environment. Focused, results-driven professional looking to obtain a career oriented administrative position with Newark CEDC. Office Management Calendar Management Policies & Procedures Manuals Report & Document Preparation Spreadsheet & Database Creation Bookkeeping & Payroll Records Management Meeting & Event Planning Facility Management Highlights Word, Excel, Access, PowerPo",
+    "output": "HR"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "SALES ASSOCIATE Summary Motivated sales associate with 3+ years of sales and customer service experience. Currently enrolled in Suffolk County Community College studying culinary. Experience 03/2016 to 10/2016 Sales Associate Company Name ï¼​ City , State Interact with customers. Work the register. Answer calls. 10/2014 to 03/2016 Sales Associate/Smoothie Maker Company Name ï¼​ City , State Interact with customers. Organize inventory. Work the register. 09/2013 to 09/2014 Sales Associate Company Name ï¼​ City , State Organize shelves and racks/inventory. Work the register. Answer calls. Intera",
+    "output": "SALES"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "GENERAL ACCOUNTANT Career Focus To obtain a position which will allow me to utilize skills I have acquired through my education and work experiences while continuing to expand my knowledge. Energetic and motivated student dedicated to providing top-quality patient care. I have ten years of administrative support service with five years of that being in a senior position. I work proficiently in a team environment and demonstrate excellent interpersonal skills. I am detailed and multi-task oriented and believe that I can efficiently accomplish any task placed before me. Licenses Basic Life Suppo",
+    "output": "ACCOUNTANT"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "TEAM LEADER/ MACHINE OPERATOR Career Overview Dedicated and focused Administrative Support Specialist who excels at prioritizing, completing multiple tasks simultaneously and following through to achieve project goals. Seeking a role of increased responsibility and authority.Versatile Medial Assistant offering administrative experience in both corporate and non-profit office environments. Core Strengths Excel, Windows, Microsoft office, spreadsheet, power, Data Entry, Dos, multi office tasks, multi phone lines, BLS, PFT, injections, urinalysis, ECG, and leadership. Production Worker, Medical A",
+    "output": "HEALTHCARE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "PAYROLL ACCOUNTANT Summary Sixteen years experience reconciling the general ledger system, four years experience in accounts payable and eleven years experience in accounts receivable. Good organizational skills and detailed oriented. Highlights FAS Asset Accounting Quickbooks Anytime Scheduler KRONOS Munis MAS90 JD Edwards Excel Word Outlook Internet Explorer FRX Netscape Messenger Experience Payroll Accountant 07/2006 to Current Company Name City , State Answered employee questions regarding pay and resolved any issues and discrepancies Advised managers on organizational policy matters and r",
+    "output": "ACCOUNTANT"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "FINANCE ANALYST Summary Obtain a job as an Executive in your Company to provide financial expertise, 9 years of BPO Finance expertise, strong critical thinking skills, computer skills, and to contribute to the success of the business Highlights STRENGTHS: Achievement Oriented with Excellent Communication People Management Skills Team Worker. Ability to Manage Change with ease Adaptability to Flexible Working Hours. Excellent Negotiation and Analysis Skills Quick learner with high energy level Willing to work hard. Eager to take responsibilities and challenges. Operating system : Windows Financ",
+    "output": "FINANCE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "PAMPERED CHEF Summary Adept at organizing and facilitating management and team building training programs as well as staff and customer appreciation activities that have created exceptional team camaraderie, customer loyalty, and company growth! An award-winning and recognized salesperson and Corporate trainer. Organized, fun, and driven! Effective at using efficient techniques in both sales and training while focusing on the needs of the team members, the corporation, and the customer. Â  Dependable, resourceful, approachable, liked, and hands-on! Highlights 21 years of sales, corporate train",
+    "output": "CHEF"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "BANKING BOOT CAMP PARTICIPANT Summary Recent graduate student with a bachelors in Economics and minors in Finance From Central Connecticut State University, Looking to get some work experience by applying my education and experience. Experience 05/2017 to 05/2017 banking boot Camp participant Company Name ï¼​ City , State 02/2017 to Current Sandwich Artist/Cashier Company Name ï¼​ City , State Took necessary steps to meet customer needs and effectively resolve food or service issues.  Recorded customer orders and repeated them back in a clear, understandable manner.  Correctly received orders,",
+    "output": "BANKING"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "NETWORK ADMINISTRATOR Summary Analytical Network Administrator adept at resolving complex network issues. Critical thinker who addresses customer support issues quickly and who consistently exceeds performance standards. Highlights Server administration, Technical documentation, Network security, Network management, Data backups, Disaster recovery, Project Management, LAN Knowledge, Proxy Servers, Networking Knowledge, Network Design and Implementation, Network Troubleshooting, Network Hardware Configuration, Network Performance Tuning Microsoft Office expert Microsoft Certified Solutions Asso",
+    "output": "AVIATION"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "IT CONSULTANT Professional Summary Highly qualified Electronics Engineering Technician with training and experience in electrical and mechanical systems. Demonstrated ability to read schematic diagrams and use appropriate test equipment to troubleshoot equipment and manufactured products. Excellent at contributing to team and project success by sharing acquired knowledge and using strong interpersonal communication skills to encourage high-level performance. Proficient in installing, maintaining, calibrating, configuring and troubleshooting. A stellar work ethic with the ability to excel in a",
+    "output": "CONSULTANT"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "INSIDE ACCOUNT MANAGER Summary Inside Account Manager with eight years experience at SHI to fill Inside Sales Team Manager position. Strong organizational, analytical, problem resolution skills and vast account knowledge. Highlights Team leadership Customer service expert Experienced in volume licensing Staff training Excellent time management Organized and meticulous Computer-savvy Adept multi-tasker Experience Company Name City , State Inside Account Manager 06/2006 to Current Daily responsibilities include quoting, customer relations, and order management. Experience in training new hires t",
+    "output": "ARTS"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "CASHIER Career Overview Experienced Receptionist Personable and enthusiastic Receptionist with more than 15 years of experience in training, operations, and customer service in various positions, including reception. Detail-oriented professional skilled at working independently and with diverse teams to ensure results. Effective communicator comfortable with people from multicultural backgrounds and demonstrated history of establishing rapport with leaders at all levels. Areas of Expertise Customer Service Cash Management Order Processing Microsoft Office Electronic Medical Records Interperson",
+    "output": "FITNESS"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "CUSTOMER ADVOCATE Professional Summary Customer care professional pursuing a position in an organization seeking an ardent problem solver, demonstrating immense levels of initiative whilst providing compassionate customer service, with over 4 years of customer relations experience. Eagerly ready to submerge into gaining new skills, while utilizing the skills I have acquired throughout my career to help propel this company to new heights. Recently earned \"Recognizing You!\" award for device upgrade sales incentive for customer service. Exceeded corporate target for customer satisfaction for 6 mo",
+    "output": "ADVOCATE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "MECHANICAL DESIGN ENGINEER INTERN Summary Over 2 years of combined professional and educational experience in 3D Modelling and Product Design 1 year of hands-on experience in FEA, Stress Analysis, Numerical Modelling and Static / Dynamic Analysis Certified in Product Design / Analysis, Engineering Mechanics and OCTG Researched in the fields of CFD and Design of Heat Transfer Mechanisms Internship experience as Maintenance Engineer Well rounded Professional with a passion to innovate and improve performance / quality Highlights 3D Modelling, Product Design, Statistical Analysis, Design of Exper",
+    "output": "FITNESS"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "DIRECTOR OF BUSINESS DEVELOPMENT Executive Profile Results- driven and highly skilled Account Manager and Sales Leader with 10+ years of experience developing and executing plans that cover all aspects of the sales cycle.Â Provide strategic support to customers by leveraging trends in technology, analytical analysis, and solutions to the challenges of their business.Â Creates effective strategies to keep the pipeline accurate, moving, and exceeding goals. Skill Highlights Strategic account development Strong interpersonal skills Team building expertise Proven sales track record Relationship se",
+    "output": "BUSINESS-DEVELOPMENT"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "CONSULTANT Accomplishments Worked with Teach for India in conducting regular classes for under-privileged children as part of the CSR program at OSC Services. Student Co-ordinator of the ILS Free Legal Aid Society for the years 2010-2012. Experience Consultant 04/2013 Company Name Asset Finance - Drafting legal documentation necessary for cross-border aircraft financing and leasing transactions, with particular emphasis on clients based in the Asia Pacific region involving major global financial institutions, operating lessors and investment funds. My experience includes acting for clients on",
+    "output": "ADVOCATE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "MANAGER, INFORMATION TECHNOLOGY PROJECT MANAGEMENT OFFICE Professional Summary Highly motivated and driven Manager of the Project Management Office (PMO) . Currently seeking potential opportunities to continue to help other organizations realize and reap benefits of formal PMO methodology. Passionate about PMO engagement in health care, as I have watched over 17 years of what was once lacking in this industry, take hold and prove its value and worth. I have had the pleasure and benefit of watching three organizations grow and blossom their teams with training and growth and development of a me",
+    "output": "INFORMATION-TECHNOLOGY"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "SENIOR VP - INFORMATION TECHNOLOGY Executive Profile CORE SKILLS Demonstrates ability to be a strong leader in a fast paced environment with strong interpersonal skills, both written and oral, and a positive attitude toward sharing expertise and assisting others to learn. Exceptional ability to manage a group of individuals, and coordinate and distribute daily tasks and unexpected issues that may arise An organized, detail-oriented, and conscientious self-starter, able to strategize and prioritize effectively to accomplish multiple tasks and stay calm under pressure Creative, resourceful and f",
+    "output": "INFORMATION-TECHNOLOGY"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "MEDIA SUPPORT SPECIALIST Professional Summary I've been working in the Technical Support field for the last 4+ years honing my professional skills as well as applying a personality that has lead me to work directly with senior level clients.Â  This has involved traveling across the country installing hardware/software; as well as training/supporting clients in a high stress environment in the television broadcast/automotive industries. I am not just looking for a specific position, but a company that promotes internal growth, rewards hard work, and is a place people are happy to work at. Skill",
+    "output": "DIGITAL-MEDIA"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "SAFETY PROFESSIONAL / CONSTRUCTION SUPERVISOR Summary Seeking a Purchasing Manager position with a firm in the Western New York vicinity in which I can utilize my 15+ years experience coupled with my B.S. in Business and my A.A.S. in Engineering Technology to contribute to the leadership and growth of the organization. Highlights Over 15 years of purchasing, materials management and logistics planning experience. Strong business/commercial experience conducting purchasing negotiations, maintaining positive business relationships and establishing strategic alliances with vendors, subcontractors",
+    "output": "CONSTRUCTION"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "DIRECTOR OF FINANCE Skills Leadership/communication skills Business operations organization Budgeting expertise Administrative Skills Account Management Project management Product development Client account management Self-motivated Customer-oriented Work History Company Name  Company Name  Experience Director of Finance Jan 2017 to Current  Company Name ï¼​ City , State I am responsible for the direction of the Finance Division of HSC Shared Services. I currently supervise a team of three supervisors and six accountants. Unit Business Manager - Intermediate Oct 2011 to Feb 2017  Company Name",
+    "output": "FINANCE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "FINANCE SPECIALIST Summary To be able to join an organization where I can utilize my proficiency with accounting principles, along with a flair for accuracy towards performing my duties. Experience Finance Specialist Nov 2014 to Jan 2015  Company Name One of the nation's largest owners and managers of high-quality residential housing representing a diverse mix of multifamily, military and student communities. Salary: USD15 per hour Hours: 40 hours per week During the short term I have worked with Balfour Beatty, I have done the processing of vendor invoices, processing of monthly rental paymen",
+    "output": "FINANCE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "JEWELRY CONSULTANT Summary As you will see on my resume, I have the required experience, education, and training you seek in a candidate. In addition, I am a military spouse and have a vast understanding of government regulations, policies, and procedures. I am very competent in managing an organizations financial resources and feel I would be an excellent addition to your company. I would like to thank you for considering my application. I am very excited at the prospect of working for your team. I am available to meet with you at your earliest convenience to discuss the position and my resum",
+    "output": "CONSULTANT"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "STORE KEEPER / PRODUCTION CO-ORDINATOR Summary To develop and find a place in the industry where I can utilize my skills through serving efficiently and with complete honesty, integrity and hard work for personal and organizational growth. Highlights Ms-Office (Excel, Word, Pivot & Vlookup) & Internet applications. Customer Service Oriented Merchandising Production Co-ordination Store Managing Inventory tracking Vendor management Shipment consolidations planning Warehouse and fulfillment Imports and exports Works well independently Accomplishments Credentials Institution/University Year of Com",
+    "output": "APPAREL"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "ASSOCIATE MERCHANT Summary Resourceful buyer with over 15 years of developing and implementing sales strategies in multiple product lines. Strengths include vendor negotiation, sourcing consumer products, and promotional planning.Â  Skills Contract negotiation Sales and trend forecasting Interpersonal ability Trade shows  Self-directed Competitive analysis Pricing strategies Presentations Experience Associate Merchant 06/2015 to Current Company Name City , State Driving sales by 17% or $936K in 2016 on a $10M+ category. Evaluated and negotiated supplier contacts to support corporate initiative",
+    "output": "APPAREL"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "MAIN CHEF Professional Summary Lead emergency department training officer at NMH in Chicago Core Qualifications Professional Summary - Food service professional with 6 plus years of restaurant experience adept at FOH and BOH operations. Demonstrated team leader with excellent staff management skills. Highly proactive customer service specialist. Driven, dedicated, and hardworking individual offering focused leadership and operational knowledge. Service-orientated Inventory control and record keeping Dynamic, Friendly restaurant host Natural leader Food service background Strong work ethic Pass",
+    "output": "CHEF"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "MARKETING COORDINATOR Skills advertisements, approach, content, Customer Service, databases, direct mail, direction, editing, email, graphic, managing, marketing strategies, marketing, marketing collateral, materials, newsletter, online marketing, press releases, production manager, Research, sales, script, stories, video, website, articles Experience 01/2016 to Current Marketing Coordinator Company Name ï¼​ City , State Campaigns. Created the hashtag #CPRstrong used on social media to promote awareness of HealthStream's 3 millionth HeartCode BLS completion. Designed script and production dire",
+    "output": "PUBLIC-RELATIONS"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "DIRECTOR, CLINICAL RESEARCH OPERATIONS & MEDICAL SCIENCE LIAISON Summary Accomplished and results-driven business development professional offers 18 years of leadership and account management experience as an integral part of fast-paced clinical and sales teams. Strategic thinker and proactive problem solver with expertise in consultative selling and territory sales management solutions. Experience Company Name City , State Director, Clinical Research Operations & Medical Science Liaison 02/2013 to Current Manage 30 clinical studies with a revenue stream of $2M annually. Increase site revenue",
+    "output": "HEALTHCARE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "TEACHER Summary Highly ethical, dependable, and diligent expert in the Curriculum Development field. Highlights Curriculum development and assessment MS Office proficient Strong communicator Instructional design e-learning tools Learning Management Systems Accomplishments Designed effective lesson Â plans focused on age and level-appropriate material. Experience Company Name June 2012 to Current Teacher  Designed research based curriculum for writing instruction using the Trivium approach.Â Saw student scores rise as a result of my curriculum. Developed research based curriculum for language a",
+    "output": "TEACHER"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "PROGRAM MANAGER Professional Summary Â Program Managers working in a withdrawal managementÂ facilities responsible for supervising and coordinating staff. Duties performedÂ include recruiting new employees, assigning tasks, scheduling shifts, training staff, improving patient care standards, and developing strategies for increasing productivity.Â I have integrity and a passion for performance. I am confident that my strong professional background as a Program Manager as well as a Senior Detoxification Nurse with Metropolitan Development Council would make me an asset to your University. In add",
+    "output": "FITNESS"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "LIBRARY EDUCATIONAL AIDE Summary To obtain an administrative assistant position where I can apply my 10 years of customer service, gift of multitasking, and professional experience to provide a team with a high quality of consistent supportive experience. Â  Â  Highlights Competent and reliable professional, committed to top quality work Organized and multitasking person Resourceful in solving problems, maximizing resources, leading, delegating and negotiating Collaborate easily with co-workers and work well independently Possess excellent communication and inter-personal skills Perform effect",
+    "output": "ARTS"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "SENIOR FINANCE MANAGER Summary Highly driven finance professional with over 8 years of progressive experience in the advertising and entertainment industry. Extremely proficient with managing month-end, quarter-end, and year-end deadlines. Highlights Staff management/development Balance sheet reconciliations Process improvement Managing audit requests Financial reporting Cash flow analysis Budget development Excellent research and financial analysis abilities Microsoft Excel, Microsoft Word, and Microsoft PowerPoint. Experience with SAP R3/BW, Maconomy, Business Objects, JD Edwards Experience",
+    "output": "FINANCE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "FINANCE MANAGER / PLANT CONTROLLER Summary Ten years experience with high-volume manufacturers, demonstrating leadership and strong project management execution skills. Instrumental in reducing labor and overhead $2.5 million and contributing to operational goals and business profit. Strengths include financial reporting, forecasting, budgeting process and internal control. Highlights A highly motivated and educated, goal and success orientated individual with over ten years of professional work experience within the US and China, of which eight years are with Reckitt Benckiser (Fortune #160)",
+    "output": "FINANCE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "HR ASSOCIATE MOBILIZATION COORDINATOR Summary Professional with extensive experience in Human Resources in Oil & Gas Company. Want to be part of an organization that allows me to utilize my strongest skills to achieve the goals for the company, as well as my own personal goals. Accomplishments MVP Award, Houston, 2009. Meeting Project Client set goal of mobilizations to Escravos GTL project year end 2008. Training Focus The basicc of Expatriate and Foreign Nationla Taxation, Houston, 2007 Death Notification Training, KBR Employee Assistance Program, Houston, 2008. Skills MS Office (Word, Excel",
+    "output": "HR"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "DIGITAL MEDIA INTERN Summary Competent and reliable professional seeking an internship or co-op position that will allow me to apply my education and enthusiasm in a professional, mutually beneficial, growth-oriented business environment. Experience 01/2017 to Current Digital Media Intern Company Name ï¼​ City , State Researched and implemented the use of immersive technology like Oculus Rift, HTC Vive and Samsumg VR in Florida International University's Virtual Reality Lab Collaborated in the production and post-production of 360 video content Published an article on an inter-displinary play",
+    "output": "DIGITAL-MEDIA"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "HOME HEALTHCARE TECHNICIAN Summary Certified Nursing Assistant with 3+ years work in fast-paced environment handling confidential paperwork, administering medication and providing quality patient careHardworking, skilled at wound care, mobility assistance and charting. Highly flexible and willing to work all shifts. E xperience serving chronically ill patients, including assisting with daily living activities and household tasks. Patient and highly compassionate. Â Home health care and hospice care settings. Established record of reliability and creating positive rapport with patients, family",
+    "output": "HEALTHCARE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "DIRECTOR OF APPLICATIONS Profile Accomplished Healthcare Professional with an exemplary background in Healthcare IT. Progressive leadership experience in Healthcare IT. Proven ability in strategic planning, business requirements gathering, creating roadmap with short term and long term goals, budget estimation and management, negotiation, return on investment and return on value analysis. Proactive leader with an excellent work ethic and commitment to exceptional customer service. Skills Graduate Assistant - Team Lead Lead implementation of Optical Character Recognition (OCR) system in Registr",
+    "output": "HEALTHCARE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "INFORMATION TECHNOLOGY SPECIALIST INFORMATION SECURITY OFFICER Profile blah, blah Core Qualifications Oracle Certified Professional (OCP), versions 8.0, 8i, 9i, 10g, 11g Certified Information Systems Security Professional (CISSP) (ISC)2 Certified Information Security Manager (CISM) ISACA UNIX/LINUX Strong collaborative skills Patch management Database servers Professional Experience Information Technology Specialist Information Security Officer  October 2010 to July 2015 Company Name ï¼​ City , State Installing and configuring Oracle software versions 10g-12c. Scripting maintenance and monitor",
+    "output": "INFORMATION-TECHNOLOGY"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "FINANCIAL EDITOR ASSISTANT Summary Strong motivated graduate student who's pursuing master's degree in Finance. Seeking an entry level internship in financial area that can utilize financial analysis skills and enhance practical experience. Honest, persistent, adaptable, and a quick learner. Passion in financial analysis and financial service related works. Highlights Financial modeling Superior time management Self-motivated professional Advanced computer proficiency (both PC and Mac) MS Office Suite Sales and marketing Quick learner Experience Financial Editor Assistant 10/2013 to 01/2014 Co",
+    "output": "BANKING"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "HEAD OF ACCOUNTS AND FINANCE Summary Flexible Accountant who adapts seamlessly to constantly evolving accounting processes and technology. Adept at budget forecasting, financial reporting and corporate tax planning. Highlights Financial statement analysis Understands foreign tax reporting Budget forecasting expertise Adobe software proficiency Effective time management General ledger accounting Flexible team player Cash-flow report generation Public and private accounting Cost accounting General and tax accounting Account reconciliations Proficient in Microsoft Office Knowledge of Sage Profici",
+    "output": "FINANCE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "GENERAL LIABILITY CLAIM REPRESENTATIVE Summary Claims Representative who is highly motivated, success driven with several years experience in the insurance industry.Â  Skills Claims file management processes Litigation resolution Strong interpersonal and communication skills Self-directed Team player Critical thinker Experience 01/2008 to 02/2013 General Liability Claim Representative Company Name ï¼​ City , State Recognized for continued outstanding customer service - nominated for In-Synch Award Successfully determine coverage and communicate with insured based on application of policy infor",
+    "output": "AUTOMOBILE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "OFFICE SUPPORT COORDINATOR Summary Highly qualified, detail-oriented and hardworking office manager with more than 12 years of experience. Proficient in research, writing, case management and client relations. Self-starter with strong problem solving and organizational abilities. Demonstrated ability to handle difficult situation with tact. Skilled in analyzing a task and breaking it down into manageable pieces. Team player with exceptional communication and interpersonal skills. Highlights Time management Strong problem solver Resourceful Mail management Schedule management Meticulous attenti",
+    "output": "AUTOMOBILE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "PURCHASING AGENT Summary Experienced buyer with demonstrated organization, customer service, communication, management and relationship-building skills. Highlights Retail Management 10-key By Touch MS Office PowerPoint Customer Service Scheduling New customer acquisition Fluent in Spanish Outlook Problem Resolution Regulatory Compliance Front-Office Operations Report Preparation Marketing & Sales PhotoShop Dependable and reliable Education Bachelor of Arts , Communication 2001 ST. EDWARD'S UNIVERSITY ï¼​ City , State Communication Experience Purchasing Agent Jan 2011 to Current  Company Name ï",
+    "output": "BANKING"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "SALES Professional Summary I want a challenging occupation where I can allow my innovations to expand with experience immensely.Â Motivated customer service specialist with over 5Â years of retail experience in a fast-paced, team-based environment. Expertise in delivering support services and resolving customer complaints. Friendly and hard working associate ready to give it all I have. Skills Trusted key holder Creative problem solver Exceptional communication skills MS Windows proficient Quick learner Strong client relations Proficient in cash management Strategic sales knowledge Cash flow m",
+    "output": "SALES"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "REGIONAL ENGINEERING MANAGER Engineering Director Innovative, solution-driven engineering director with over 25 years' experience deliveringÂ high-profile ITS/SCADA projects for the Transportation and Water/Waste Water industries. Â Expertise includes; technical solution architecting and cost estimating, mission critical ITS/SCADA system design and delivery, disaster recovery planning, technical program management, and cross-team leadership. â€‹ â€‹ Execution and results oriented individual with a passion for solving business problems with innovative, cutting edge technology solutions that ena",
+    "output": "ENGINEERING"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "PROGRAM MANAGER & DESIGNER Professional Summary A talented program designer and learning specialist with experience developing and managing curricula across cultural, academic and organizational contexts. With a background in Brain & Cognitive Science and Learning Design, I bring a strong understanding of how the brain functions to inform the design of effective learning experiences. Experienced project manager adept at leading projects from concept through completion with a high degree of cultural competence, having run projects in seven countries over the last five years. Skills Program deve",
+    "output": "DESIGNER"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "TRANSITIONAL HOUSING ADVOCATE Summary Diversified background in providing services to culturally sensitive issues that involve clients. Proven record of absorbing new concepts easily and adapting to highly demanding situations. Exceptionally strong interpersonal and teamwork skills. Exhibits dependability in performing work and willingness to accept responsibilities. Strong skills in appropriate levels of written and verbal communication necessary in the job description. Combined with abilities to maintain effective and productive working relationships with fellow employees, supervisors and th",
+    "output": "ADVOCATE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "STAFF ACCOUNTANT Summary Professional Accountant and Bookkeeper with 12 years of experience with accounts receivable and payable. Detail-oriented bookkeeping professional with 3+ years experience applying financial and managerial accounting practices. Skills SAP, Great Plains Dynamics, Sage50, QuickBooks Pro, ACT, Microsoft Word, Excel (Pivot tables and VLook Up) Access, PowerPoint Experience Staff Accountant 09/2015 to 09/2017 Company Name City , State Supported Regional Finance Manager with special projects and other responsibilities as assigned. Handled monthly accrual process for 22 expens",
+    "output": "ACCOUNTANT"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "OPERATIONS FINANCE DIRECTOR Summary Skilled financial professional with over twenty years of financial services industry and fifteen years of practical management experience.Highly detail-oriented and organized. Areas of expertise include conflict management, customer service, marketing and client interface. Advanced training in risk assessments, management controls and audit planning. â€‹ â€‹ Highlights Customer service Schedule management Project managementÂ  Strategic and financial planning expert Mergers and acquisitions knowledge Negotiations, risk mitigationÂ  Exceptional customer servic",
+    "output": "FINANCE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "BUSINESS DEVELOPMENT REPRESENTATIVE Accomplishments Achievement driven and results-oriented individual interested in working in Business Management or Sales. SUMMARY: Youthful yet very mature; willing to learn and grow; excited about finding a challenging position that gives me an opportunity to contribute. Quick learner with attention to detail. Excellent ability to think out of the box and solve problems. Superb leadership, intrapersonal, and people skills. Flexible and open to new challenges. Professional Summary Achievement driven and results-oriented individual interested in working in Bu",
+    "output": "BUSINESS-DEVELOPMENT"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "CERTIFIED NURSING ASSISTANT Summary Experienced Administrative Assistant III offering 21 years of experience in medical business office operations. Proactive leader with strengths in communication leveraging office professionalism, phone etiquette, proof-reads and audits case reports, oversees daily spreadsheets and providing consultation and organization ofdaily workflow. Dedicated in high-volume office environment that focus on delivering exceptional clerical and operational support for medical and hospital staff professionals. Abilities to cultivate positive rapport among clients, staff, an",
+    "output": "HEALTHCARE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "EVENT LEAD / PREP COOK / ASSISTANT PASTRY CHEF Summary Talented cook with a diverse culinary background encompassing family style meals, restaurant management, and on site catering. Successful history of motivating kitchen personnel to maintain high performance standards and excellence. Experience Event Lead / Prep Cook / Assistant Pastry Chef Jan 2015 to Dec 2016  Company Name - City , State As an Event Lead I was expected to deliver an eating experience that reflected the integrity and reputation of the company I was employed by. In doing so I was responsible for managing an event team of up",
+    "output": "CHEF"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "SUPERVISOR Summary Accomplished results orientedÂ leader withÂ marketing and customer service experience. Exceptional organization, time management and multi- tasking abilitiesÂ with an MBA- Management/Finance. Skills Complaint handling and resolution Self-motivated In-depth knowledge of markets and relationships Complex problem solver Skilled negotiator Self-motivated Accomplishments Qualified for [Number] quarterly sales bonuses by exceeding sales target by [Number] %. Leadership Research Implementation Assisted in implementation of new tracking system that resulted in improved patient care.",
+    "output": "HEALTHCARE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "CONSULTANT Summary 7 years of professional IT experience with Masters degree in computer applications; worked mainly with Java (JEE) programming languages. Passionate about Clean code programming skills and Emergent design techniques. Hands on experience with Test-driven development (TDD) and Behavior-driven development (BDD) with test automation scripts to deliver high quality product. Good java performance improvement and reliability experience. Good knowledge to achieve high-availability and Continuous Integration. Good understanding of Relational and NoSQL databases. Experienced with devel",
+    "output": "CONSULTANT"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "ACCOUNTANT Professional Summary Skills Work History 06/2012 to Current Accountant Company Name â€“ City , State  I have a practical knowledge and a thorough understanding of the principles, methods and theories, laws, regulations and directives of accounting. I provide training and accounting instruction to assistance in the application and compliance of generally accepted accounting principles and procedures relating to accounts payables, monthly reconciliation and disbursements. Review, verify and print cost and trust checks request daily for case files within the office and remotely to othe",
+    "output": "ACCOUNTANT"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "DIRECTOR OF PUBLIC RELATIONS & PARTNERSHIPS Executive Profile High-performing executive with extensive hospitality and luxury lifestyle experience. A strategic trendspotter who excels at developing dynamic partnerships and programs that serve as the impetus for multi-tiered marketing campaigns as well as top-tier media exposure.Â  Skill Highlights Social Media & Influencer Strategy Project ManagementÂ  Brand Partnership DevelopmentÂ  CRM Content & SEO Marketing Budget Development & ManagementÂ  New Hotel Launch & Re-Launch/Brand Development Core Accomplishments Initiated and cultivated aÂ stra",
+    "output": "PUBLIC-RELATIONS"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "ACCOUNTANT II Accomplishments Military Training Certificate, 2005; PNC Conversation: Deep Dive into Savings and Investment training 2012; Operational and Soundness Training 2013; Employee of the month (November) at PNC Bank 2011; Employee of the Quarter at PNC Bank 2011; Retail Banking Achievement Award 2012;. NMLS- Nationwide Mortgage Licensing System, 2013. Supervision Supervised team of two staff members.Â  Professional Summary Detail-oriented Accountant with 5 years effectively maintaining accurate accounting information for large-scale financial organizations. Skills Superior attention to",
+    "output": "ACCOUNTANT"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "CONCIERGE Professional Summary I am looking for a job where I can put my positive strengths and abilities to good use. I am an efficient and cheerful worker who relates to people with compassion and understanding. I am discreet, trustworthy, and dedicated. Authorized to work in the US for any employer. Licenses Certified Nursing Assistant Skill Highlights Highly organized Professional behavior and telephone manner Computer literate Able to perform without close supervision Able to prioritize Able to work under stress Patient care and safety Medical terminology Electronic medical records Vital",
+    "output": "FITNESS"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "ACCOUNTANT Summary Financial Accountant specializing in financial planning, reporting and analysis in both private and public sectors.Well-informed accountant adept at supplying quick responses to financial inquiries from internal management and potential clients.Creative accountant equipped with a broad knowledge of concepts and strategies to yield the best possible financial outcomes. Highlights Periodic financial reporting expert Invoice coding familiarity Strong communication skills General ledger accounting skills Complex problem solving Account reconciliation expert Experience Accountant",
+    "output": "ACCOUNTANT"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "CUSTOMER SERVICE REPRESENTATIVE Summary To obtain a position that will enable me to use my organizational skills and ability to work with people, in a stable environment that will lead to a lasting Â relationship. Experience January 2014 to Current Company Name ï¼​ City , State Phoenix Aviation has provided me with an extensive knowledge of aviation amongst multiple product lines; while remaining task oriented and working as a team member. I currently work with the Agriculture, Commercial Aircraft, Commercial Airport, and Airline product lines. Having knowledge of multiple product lines is an",
+    "output": "AVIATION"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "ACCOUNT EXECUTIVE Summary Extensive experience in healthcare management, leadership, mentor, healthcare sales, customer service; Succeeded in exceeding targets and expectations; Earned the reputation of being the most dependable and trusted healthcare care employee Recognize for dedication and professionalism. Received praise for handling situations with a professional and positive attitude on my current job. I was given praise by my manager for my great communication skills and my willingness to be flexible with the schedule that my company currently required. Authorized to work in the US for",
+    "output": "HEALTHCARE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "BUYER Summary Over 1 year of end to end experience in worldwide Procurement operations *Over 5 years of end to end experience with Accounts payable and reconciliation *Great team player with the ability to instill and reinforce confidence, self-esteem and optimistic attitude. *Organized, Analytic and versatile thinker, effective at developing and implementing creative ideas Highlights Proficient in Oracle, SAP ECC 6.0 version, Helios and Sun system version 5, MS-Word, Excel and PowerPoint. Experience Buyer  January 2014 to January 2015 Company Name ï¼​ City Global procurement operations- Takin",
+    "output": "BPO"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "PUBLIC RELATIONS CONSULTANT Summary Experienced public relations, sales and marketing professional with expertise in the technology, financial, consumer and healthcare industries. Highlights Global marketing Account management Direct marketing campaigns Public relations expert Quality leadership Multi Task Abilities Proven Sales Success Start-up background Deadline-driven Microsoft Office Suite expert Experience Public Relations Consultant  June 2005 to January 2016 Company Name - City , State Managed PR programs for AccordSQA and GatherWorks. Secured inclusion of SmartScript and SmarteLoad in",
+    "output": "PUBLIC-RELATIONS"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "SPECIALIST FOR WOMEN'S & CHILDREN'S APPAREL Summary Area / Merchandising Manager with 15 year background in management, hiring, developing and merchandising. Highly detail-oriented and organized. Areas of expertise include conflict management, employee recruitment, staff development & training. Highlights Have great leadership skills. Works well with people. Team player, with excellent leadership skills. Fast learner & driven. Experience Specialist for Women's & Children's apparel  July 2015 to Current Company Name ï¼​ City , State Provide Customer service thru out the store. Merchandises and",
+    "output": "APPAREL"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "PUBLIC RELATIONS MANAGER Highlights Microsoft Word, Microsoft Excel, Microsoft Outlook, Microsoft PowerPoint, Adobe Photoshop, Adobe Illustrator, WordPress, Salesforce, MailChimp and Basecamp. Experience 08/2014 to Current Public Relations Manager Brother Grand is a California based duo that blends psychedelic-folk rock with a twist of film-score soul. Manage media relations with local and national press, create press releases, invite and host press to events. Create marketing materials, such as press one-sheet, social network flyers and monthly newsletter. Run national tour campaign; includes",
+    "output": "PUBLIC-RELATIONS"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "ENGINEERING TECHNICIAN III Summary Engineering Technician with an extensive troubleshooting, repair, and installation background. Thorough knowledge of Electrical, Mechanical, Pneumatic and computer systems. Self-starter who quickly masters new skills and systems. Highlights Extensive Troubleshooting and repair proficiency Interpretation of schematics, blueprints and drawings Quick to act on customer service requests/issues Resolve issues down to the component level Document work performed through internal database Proficient in AC/DC motor systems and theory Electrical Power Generation Data A",
+    "output": "ENGINEERING"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "COMMUNITY ADVOCATE Summary Compassionat e social services professional and active listener dedicated to working tirelessly with clients to help them resolve mental health issues and thrive on their own terms.Eager to learn Â  Highlights 30 hour Domestic Violence Training Customer services training Proficient in Microsoft Office: Excel/Word/PowerPoint/Publisher/Outlook Type 50 WPM Leadership Training Mental Health Facilitator Skilled DV Facilitator Skilled Advocate Violence prevention Attentive listener Sensitive Empathetic Detail-oriented Excellent interpersonal skills Accomplishments Develope",
+    "output": "ADVOCATE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "FINANCE MANAGER Summary Top performing Individual with a consistent track record of surpassing sales goals and meeting objections. Extensive sales experience in the retail and customer service industry specializing in auto sales. An innovative manager Â who has lead a cohesive sales team in consistently achieving aggressive stretch goals withÂ unique abilities in making decisions and problem solving. Highlights Excellent Communication Contracts and Negotiations Cross-Cultural Sales BackgroundÂ  Â Marketing Leadership & Management Bi-lingual Accomplishments Exceeded Sales goals by 40 % on a mon",
+    "output": "FINANCE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "HEALTHCARE ASSOCIATE Summary Energetic, resourceful, and results-driven professional .Skilled at working effectively both independently and collaboratively as part of a team within fast-paced environments to complete projects and responsibilities while adhering to deadlines and quality standards. Skills EPIC, Microsoft Office Suite (Word/Excel/PowerPoint), Healthcare Systems, Insurance/Billing, Sorian Scheduling, Health/Medical Records, Research, Reports, Databases, Data Analysis, and PCs/Windows Applications Experience February 2002 to Current Company Name City , State Healthcare Associate Ma",
+    "output": "HEALTHCARE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "SALE CONSULTANT Summary I'm driven to develop and implement fresh sales and marketing strategies with financial and operational discipline. Competitive Sales Rep with 2 years in sales with vast industry knowledge. Independent worker with high energy and great communication skills. I have a a lot to thank to my last employer Boost Mobile of Mobile Factory for helping me advance in my sales skills and knowledge of different technology, such as phones and computers. Friendly Sales Associate proficient in managing all areas of sales and customer service in fast-paced retail environments. Excellent",
+    "output": "ARTS"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "6 - 8 LANGUAGE ARTS GRADE TEACHER Summary Enthusiastic Language Arts educator seeking growth as an education specialist within a school that is dedicated to the academic and socio- emotional success of its student population. Core Qualifications Motivating students Learning style assessment Active listening skills Differentiated instruction Experience working with special needs students Classroom management Effectively work with parents Clear public speaking skills Achievements Â Student Development Increased 6th grade Language Arts standardized test scores by 20%, analyzing pre and post data",
+    "output": "ARTS"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "PATIENT CARE TECHNICIAN Summary Enthusiastic and hardworking nursing school graduate. Graduated Salutatorian and Magna Cum Lauda from Chamberlain University. My can-do attitude has led me to be a valued member to all my prior employers. I am extremely dedicated and always strive to provide the best service possible, one that I can proudly put my name on. I understand the importance of getting the job done correctly the first time, and in a timely manner. I will be a strong advocate for my patients and for the healthcare team I work for. Experience 12/2016 to 07/2017 Patient Care Technician Int",
+    "output": "AVIATION"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "SALES REP Summary Sales Executive offering outstanding sales presentation, communication, closing skills, Â and Â team management skills. High-energy, results- oriented leader with an entrepreneurial attitude. Desires a high-level position in a professional service oriented environment. Core Accomplishments Founded The Success Group and grew personal sales to $200,000.00 the first year with a steady growth for the next 5 years.Â  Initiated \"Program\" sales for area Auto Dealerships in Atlanta to purchase imprinted promotional items in mass with each dealership's name with the brand's logo, savi",
+    "output": "SALES"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "ADVOCATE GENERAL Professional Summary Over eleven years experience in management in the Criminal Justice and Mental Health disciplines Developed innovative \"Delayed Sentencing\" and \"Aftercare\" programs for Oklahoma County and surrounding courts Over six years managing a surety company (Bail Bond and Recovery) Proven record of innovative and effective staff development Strong commitment, vision and leadership Skill Highlights Highly analytical thinking with demonstrated talent for identifying, scrutinizing, improving, and streamlining complex work processes Computer-literate performer with exte",
+    "output": "ADVOCATE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "ACCOUNTANT Summary 15 Years of experience in Account receivable and Account payable field and other related accounting functions. STRENGTHS: . Detail oriented with ability to maintain high level of quality. . Excellent written and verbal communication skills and able to prioritize. . Able to identify, and define problem and take corrective measures. . Trustworthy, ethical, hardworking, and meet deadlines. . Ability to work effectively in team and independently. . Flexible and adaptable, willingness to learn new skills, and accept new tasks. . Ability to maintain confidentiality at all times. A",
+    "output": "ACCOUNTANT"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "HUMAN RESOURCES PROFESSIONAL Professional Summary Experienced working in fast-paced environments demanding strong organizational, technical, and interpersonal skills. Highly trustworthy, ethical, and discreet; committed to superior customer service. Confident and poised in interactions with individuals at all levels. Detail-oriented and resourceful in completing projects; able to multitask effectively. Skills Networking and Partnership Development Decision Making Report Preparation Human Resources Management Systems Procedure Compliance In-Person and Telephone Interviewing Employment Data Trac",
+    "output": "ADVOCATE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "REGIONAL RECRUITER Summary Motivated program management professional, a problem-solver and decision maker; specialized in team leadership, resource coordination and customer service, who seeks to re-enter the workforce with both feet. Highlights Professional caregiver Extremely organized Program development Conflict resolutionDecision-making ability Team liaison Process improvements Strong written and verbal communication skills Culturally-sensitive MS Office Business correspondence Project coordinationÂ  Accomplishments Hands-on Human Resources Coordinator with proven international/domestic o",
+    "output": "HEALTHCARE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "TRANSACTION PROCESSING ANALYST Summary Dependable individual who brings management experience and a willingness to take on added responsibility to meet tight deadlines. Enthusiastic team player with a strong work ethic and advanced complex problem solving skills. Dedicated person demonstrating effective leadership in all aspects of the job. Dedicated serviceman focused on applying 6 years of military Multimedia Illustration experience to gain employment in the civilian sector. Exceptionally hard worker well-versed in Adobe CS5, Graphic Design, Excel, Word and Power Point. An individual who is",
+    "output": "BPO"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "SECURITY BAGGAGE HANDLER/PERSONNEL SCREENER Career Overview Highly enthusiastic customer service professional with [number] years client interface experience.Customer-focused Retail Sales Associate with a solid understanding of the dynamics of the retail apparel and shoe industry. Core Strengths Computer Skills: MS Excel, MS Access, MS Word, MS Power Point, MS Outlook, Adobe Acrobat Programs: Navy Enterprise Resource Planning, FedEx, United Parcel Service, Webflis, DODDAC, FACTS Currently maintain an active Security Clearance of Secret. References/DD214/ Transcripts upon Request Accomplishment",
+    "output": "AVIATION"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "EXECUTIVE CHEF Summary Motivated professional with exceptional skills as both chef and manager. Over ten years of experience in the restaurant industry. Exceptional leadership and interpersonal skills. Proven ability to succeed in a high-pressure, challenging environment while maintaining a calm demeanor. Expertise in a variety of different cuisines and cooking techniques. Highlights Food Safety and Sanitation Sous vide technique Staff Training and Development Menu DevelopmentÂ  Batch Cooking Ordering & Receiving Labor & Food Cost Control Experience 04/2014 to 08/2016 Executive Chef Company Na",
+    "output": "CHEF"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "BUSINESS DEVELOPMENT MANAGER Summary Energetic, motivated and organized sales representative with results in the oil and gas industry. Accomplished professional with strong background in technical sales and product development. Highlights Excellent communicator Excellent sales techniques Strategic account development Exceptional customer service skills Upselling and consultative selling Relationship selling Skilled multi-tasker Proven sales track record Accomplishments Created strategies to develop and expand existing customer sales, which resulted in a 30% increase in monthly sales. Increased",
+    "output": "BUSINESS-DEVELOPMENT"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "PROJECT COORDINATOR Highlights SKILL SUMMARY I have well developed Time Management skills I work to a very high standard, with an eye for detail, goal orientated. I have excellent communicate skills I establish and maintain effective cooperative working relationships with people of all levels I am enthusiastic, passionate, motivated, honest & a reliable team player I work from a Strength base focused in problem solving I have well developed computer skills in MS Office, Excel, Power Point and Internet. I actively look for opportunities to develop my skill base. Experience Project Coordinator C",
+    "output": "BANKING"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "OWNER/ FABRICATOR/ WELDER Experience Owner/ Fabricator/ Welder  October 2017 to Current Company Name ï¼​ City , State Design, Plan, Construct, and market various type of welding projects for purchase such as Gate, Panels, Cattle Guards, Horse shoe art, and Home DÃ©cor. Furniture and Antique restoration. Farm equipment repair. Mobile welding. Heavy Equipment Operator  August 2017 to October 2017 Company Name ï¼​ City , State Operated Track hoe to excavate Live Gas lines from Atlanta GA to Chattanooga TN at marked PIs in order to test pipe density for Anomalies on the 24\" Northwestern Georgia ex",
+    "output": "CONSTRUCTION"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "BUSINESS DEVELOPMENT MANAGER Summary Extensive and diverse sales, business development, and management background. Creative professional with records of increasing revenue and department effectiveness. Proficient in prioritizing and completing tasks in a timely manner, yet flexible to multi-task when necessary. Customer focused with diverse industry experience including security, computer, sales, management, psychology, non-profit, and retail. Enjoys learning new programs and processes. Team player who is attentive to detail and able to work in fast paced environments. Excellent oral and writt",
+    "output": "BUSINESS-DEVELOPMENT"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "INFORMATION TECHNOLOGY MANAGER Summary Successful fifteen years of experience in IT Management and Technical Support. Skilled in installation, configuration, migration and implementation of server platforms. Dedicated IT Manager well-versed in analyzing and mitigating risk and finding cost-effective solutions. Experience in strategic planning, designing and budgeting for new products. Excellent troubleshooting skills in network, servers and software applications. Highlights Leadership and Vision Network InfrastructureHardware and software upgrade planningProject trackingBudgeting and resource",
+    "output": "INFORMATION-TECHNOLOGY"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "HR GENERALIST Professional Summary Dependable and responsible Human Resources Generalist with over fourteen years experience in a fast-paced environment. Solid team player with great positive attitude and exceptional people skills. Experience in many areas of HR including benefits, compensation, employee relations, recruiting, payroll and processing of new hires and terminations. Strong customer service and detail oriented. Core Qualifications Conflict resolution & creative problem solver Able to adapt and implement change Excellent communication skills Quick learner Strong Word, Excel, PowerP",
+    "output": "HR"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "BAKERY ENTREPRENEUR Summary Comprehensive experience in manufacturing, reliability engineering and nuclear processing. Experience Company Name City , State Bakery Entrepreneur 10/2011 to 08/2014 Established and built a strong local cupcake store brand name through quality products, community. involvement and alternative advertising methods. Performed employee hiring, training and supervisory duties. Engaged in day-to-day operations of all aspects of the store including baking, cleaning and customer service. Company Name City , State Project Engineer 02/2010 to 02/2014 Hired on through Nuclear",
+    "output": "AVIATION"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "SENIOR HR MANAGER, HR BUSINESS PARTNER Summary A highly dedicated and accomplished human resources manager with a record of proficiency in employee relations, training and development programs, recruitment and on boarding, payroll management, benefits administration, HRMS Database administration, job description development, wage/salary reviews, record keeping, and compliance. A proven leader in championing company values, vision, and expectations through effective communication and facilitation. Aligns HR strategy with business objectives, assesses and anticipates HR-related needs, communicat",
+    "output": "HR"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "RECRUITING AND HR MANAGER Summary Experienced Corporate Recruiter who is self-motivated, results driven, highly responsive and able to prioritize effectively to accomplish multiple tasks and stay calm under pressure. Offering over 6 years of recruiting, human resources and staffing experience with a Bachelor's Degree in Human Resources Management. Experience with full life-cycle recruiting of qualified IT professionals including college graduates, experienced software developers, business/technical consultants, sales executives, project managers,Â and executive level staff. Highlights Excellen",
+    "output": "HR"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "NIGHT WAREHOUSE SELECTOR Professional Summary Experienced Personal Trainer for eight plus years conducting one on one training sessions in upscale fitness studios and gyms. Skills Customer Satisfaction Weight trainer Personable and friendlyÂ  Individual life and body assessments Â Â Strength TrainerÂ  Staff Leadership Nutrition Plans Versatile Customer Satisfaction Â  Fitness equipment expertise Work History Night Warehouse Selector 12/2016 to Current  Company Name â€“ City , State  Night Warehouse Selector. Selects customer orders from pick slots using pick lists of assorted items to build or",
+    "output": "FITNESS"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "BUSINESS DEVELOPMENT DIRECTOR Summary Business Development Director driven to exceed sales goals and build long-term relationships with customers. Creates a positive shopping experience through high-quality customer care. Highlights Fluent in English and Spanish Action-oriented, results-oriented, \"take charge\" Sales and Customer Service Professional Superior communication skills Superb follow up skills Exceptional relationship building that leads to gaining the trust and credibility of individuals and groups Effective team player Capable of delivering a strong business case for client action w",
+    "output": "BUSINESS-DEVELOPMENT"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "ADVENTURE RUN COORDINATOR Career Focus I am a fitness enthusiast and enjoy living a healthy and active lifestyle. Â I currently oversee and coordinate many aspects of events in the running community which has made me efficient, a quick problem solver and very attentive to a customers needs or concerns. Â  Core Qualifications Time Efficient EncouragingÂ  Organized ActiveÂ  Self-Motivated Energetic Hard worker Goal Oriented Education and Training Bachelor of Arts : Psychology Sociology , May 2013 Arizona State University ï¼​ City , State , United States GPA: GPA: 2.3 GPA: 3.0 2.3 GPA: 3.0 Minor-",
+    "output": "FITNESS"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "PHARMACEUTICAL SALES REPRESENTATIVE, WOMEN'S HEALTHCARE SPECIALIST Professional Summary Skills PROVEN ADMINISTRATIVE HIGHLY ORGANIZED LEADERSHIP SUPPORT EVENT PLANNING ENTREPRENEURIAL CONFLICT PUBLIC SPEAKING MINDSET RESOLUTION PROJECT STAFFING TEAM LEADERSHIP REPORTING AND SELF DIRECTED DOCUMENTATION OUTBOUND CALLING PROSPECTING Account Management Acquisitions ADMINISTRATIVE Contracts Clientele Customer satisfaction Customer Ssatisfaction Decision making DOCUMENTATION EVENT PLANNING Inventory TEAM LEADERSHIP LEADERSHIP Director Managing Marketing plans Marketing Market Mergers Communicator Or",
+    "output": "HEALTHCARE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "CHIEF OPERATING OFFICER Summary of Skills Strategic Planning/Management Strong communication skills Strong credit/financial analysis skills Team builder/collaborator Sales management Negotiation skills Strong multi-tasker Project management Planning/execution Cross Functional leadership Professional Experience Chief Operating Officer  June 2008 to January 2010 Company Name - City , State Recruited by the Board of Directors to become COO. Oversaw all aspects of this 35+ year old medical practice comprised of 5 freestanding radiation oncology clinics located in the South Puget Sound with 8 physi",
+    "output": "BANKING"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "ADMINISTRATOR OF INFORMATION TECHNOLOGY Summary Advanced Desktop Support Lead/Manager with 14 plus years of experience in the Information Technology field providing Tier II - III technical support. I have demonstrated highly advanced troubleshooting techniques in resolving end-user issues with swift efficiency and going above and beyond SLA. 15 plus years of experience working with United Senate end-users across multiple technological platforms. Experience Company Name Administrator of Information Technology  City January 17th 2007- Present). Research, implement and support new technologies in",
+    "output": "INFORMATION-TECHNOLOGY"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "SECRETARY - FINANCE DIVISION Summary An energetic, skillful and dedicated Administrative Assistant offering versatile office management, planning and detailed skills. Able to provide extensive experience of administrative support, organization, time management and confidentiality for executive-level staff of daily operations and functions. Ambitious and goal-oriented individual looking to obtain a position at a successful company which offers opportunities for professional growth. Highlights Customer service oriented Microsoft Office proficient Detail-oriented Professional phone etiquette Soci",
+    "output": "FINANCE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "OPERATION MANAGER www.linkedin.com/in/raymondstrange Special Hiring Auth: Veterans Pref (VEOA) Skills Secret Security Clearance Project management Budget analysis Training / Development Schedule management Critical thinking Team building Written and oral communication skills Process improvement Microsoft Office Suite expert Summary Accomplished Operation Management professional with 20+ years' with a broad scope of experience driving process improvements, financial administrative, and staff productivity in military environments. Cultivate strong relations through contract negotiation, project",
+    "output": "AVIATION"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "BUYER/PLANNER Summary Detail-oriented, analytical-thinking, trilingual individual, with exceptional problem-solving skills looking to obtain an internship or full-time position that will allow me to utilize my education and work experience while gaining valuable work experience in a team-oriented work environment. Education and Training Bachelor of Science : Petroleum Engineering , Jul Texas A&M University ï¼​ City , State Petroleum Engineering [Number] GPA  Skills Solid Works, CAD, Matlab and MS Office Process Implementation Languages English, Portuguese, Spanish) Experience Buyer/Planner  Ma",
+    "output": "APPAREL"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "I HEALTHCARE MARKETING SPECIALIST Professional Summary An innovative, customer-oriented Healthcare Administrator with a background in primary care andÂ experience supporting a team of physicians in a busy medical office. Expertise includes verifying insurance coverage, records reviews, marketing and schedule maintenance. Searching for a leadership role in a team oriented company.Â  Education Healthcare Administration Pennsylvania College of Health Sciences 2017 City , State Coursework in Epidemiology Coursework in Statistics Coursework in Health Care Policy & Planning Coursework in Ethical Iss",
+    "output": "HEALTHCARE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "BUSINESS MANAGER Experience Business Manager , 07/2008 to Current  Company Name â€“ City , State  Devise and execute growth strategies entailing market penetration and expansion, product development and diversification,. new customer acquisition and targeted marketing campaigns. Formulate and administer policies and procedures to increase. profit margins and decrease operations expenses. Manage and guide 18 team members Achievements Analyzed sales reports and streamlined an expansive menu; eliminated unpopular/unprofitable items and introduced healthier recipe options, generating $146000 in an",
+    "output": "CHEF"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "EXECUTIVE CHEF Summary Over 29 years experience in front and back of house. Â Seeking a Management position. Expert in managing kitchen staff and preparing foods at reduced cost without compromising quality and taste. Executive Chef with 4 years of experience in high-pressure culinary environments. Skilled in preparing large volumes of food quickly and efficiently.Â  Highlights Kitchen, Bar, & Dining Room Operations Integrated Inventory Control Promotions & Up-selling Budgeting / Profit & Loss Management Safety & Sanitation Compliance Innovative Menu Planning Vendor Management & Negotiation St",
+    "output": "CHEF"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "DATABASE PROGRAMMER/ANALYST (.NET DEVELOPER) Summary Software Engineer with 2 years in Web Developer specializing in front end development. Proficient in Software Development Life Cycle (SDLC) and SCRUM AGILE methodologies of development process to produce software solutions by team. Involved in designing, planning, developing and implementing Microsoft .Net based solutions that meet quality and code standards. Developed web based applications using C#, ASP.Net, JavaScript, jQuery, CSS, Bootstrap CSS, HTML, XML and AJAX. Strong experience in data retrieval and manipulation using ADO.Net data o",
+    "output": "INFORMATION-TECHNOLOGY"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "ASSISTANT TEACHER Career Focus I am looking into changing careers and establishing a career. Â I have had a wide variety of jobs including summer camp counselor, fitness instructor, visitation specialist, child care, delivery driving, coach, and disaster specialist. Â I am looking for a full-time position. Core Qualifications CDL A Private pilot license clean MVR computer literate, strong understanding of window's products can type 40 wpm strong work ethic demonstrated ability to inspire and motivate othersÂ  Education and Training Ph.D. : Homeland Security Policy and Coordination Walden Unive",
+    "output": "TEACHER"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "EXECUTIVE CHEF Professional Summary I have honed my professional craft by working in New York City (most recently Gastro Arte and Oxford Kitchen Fort Greene Brooklyn), Hoboken, Oaxaca Mexico, as well as presiding over two top rated, highly coveted award winning well known extremely high volume Knowles family restaurants and hotel in New Jersey in which my skills were perfected and completed in all aspects of running award winning restaurants. With this comes a proven track record and an excellent reputation .After my time at the Highlawn, I was given the reigns of their sister restaurant The M",
+    "output": "CHEF"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "INTERIOR DESIGNER OBJECTIVE To obtain a position with a reputed organization, where I can utilize my skills to contribute the organization's success, a position where my education, experience and motivation allow me to make a valuable contribution. Highlights Proficient in AutoCAD Adobe InDesign Adobe Photoshop Concept development Drafting Photography Space planning Product specifications Interior architectural detailing Color and material application Proficient with furniture systems Experience 01/2015 to 01/2016 Interior Designer Company Name Create comprehensive drawings perfectly referring",
+    "output": "DESIGNER"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "DIRECTOR, BUSINESS DEVELOPMENT Professional Summary Results-driven and highly skilled business development director with in-depth state and federal government. Expertise in identifying, developing, and executingÂ strategic pursuitsÂ of newÂ government opportunities.Â Excellent healthcare and business process solutions experience leveraging newÂ industry trends, as well as game-changing legislation and its impact to federal and state governments.Â Open and clear communicator with demonstrated strategic vision and disciplined execution. Capable in bringingÂ immediate federal government healthcar",
+    "output": "BUSINESS-DEVELOPMENT"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "BILINGUAL DOMESTIC VIOLENCE ADVOCATE Skills Word programs (including Excel and Access), EPIC and other electronic medical records, and the database Efforts to Outcome (ETO). Working knowledge of SAS and R. Experience Bilingual Domestic Violence Advocate Sep 2015 to Nov 2016  Company Name ï¼​ City , State Provided advocacy services appropriate to client needs to a caseload of approximately 30 clients, through in person and/or phone contact. Advocacy services included crisis intervention, risk assessment, safety planning, supportive counseling, and assistance in accessing community resources. Co",
+    "output": "ADVOCATE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "OWNER/PRINCIPLE CONSULTANT Executive Profile Education and project management consultant with a career path that emphasizes strategy and development. Throughout my career, my passion has been supporting high-level influencer's in educational and youth-serving non-profit organizations in both strategic and tactical decision-making. I have worked in high-performance and high impact educational organizations for 15 years. I am an effective motivator and results oriented leader with a passion for excellence and working with diverse individuals. I have superior cross-functional and remote team comm",
+    "output": "CONSULTANT"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "CONSULTANT Summary Military veteran and PhD with a breadth of professional experience. Proven expertise in long- and short-term projects with tight deadlines and changing requirements. Highlights *Analytical problem solving * Superb writer and editor *Articulate presentation skills * Research / Analysis *Data collection and analysis * Effective team leader Consulting, Research, Analysis, Qualitative Analysis, Quantitative Analysis, Social Media, Project Management, Media Analysis, Editor, Copy Editing, Data Entry, Drafting, Editorial, Fundraising, Government, Law Enforcement, Personnel Managem",
+    "output": "CONSULTANT"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "INFORMATION TECHNOLOGY MANAGER Summary Experienced Information Technology Manager committed to maintaining innovative technical skills and up-to-date industry knowledge. My excellent problem solving skills, diagnostic ability and communication skills are assets that allow me to excel and adapt to virtually any situation. Experience Company Name City , State Information Technology Manager 01/2007 to Current Responsible for maintaining budget and implementing all new technologies within the firm. Integral part of technology team responsible for implementing and migrating Accounting and Billing s",
+    "output": "INFORMATION-TECHNOLOGY"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "CONSULTANT Summary Position in Accounting/Regulatory or banking operations Highlights Microsoft Office, Lotus Notes, QuickBooks, ACBS, BCS, OTG, AP, RECON+, FMS (G/L System), REVAL (evaluation of hedged funding) and Bloomberg. Accomplishments I was awarded Certificate of Recognition for the year 1998 that helped in lifting of the agreement with Federal Reserve Bank of New York. I was also awarded Certificate of Appreciation for the year 1999. Experience Consultant 01/2013 to 09/2016 Company Name City , State Working as consultant and engaged with Transworld Inc, a insurance brokerage and accou",
+    "output": "CONSULTANT"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "SUBSTITUTE TEACHER Summary Receiving an education on Psychology and pursuing my teaching certification,ha been the best professional accomplishment I have achieved. The teaching in the absence of the teacher helped me understand that I haveÂ a background to implement the strategist teach. Sales Manager successful in relationship and team building. Motivates sales teams to exceed sales goals with track record of consistently achieving employee retention, skilled in leading teams to set record-high sales figures, expand existing territories and develop new accounts. Achieve record- setting reven",
+    "output": "TEACHER"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "INFORMATION TECHNOLOGY ANALYST Summary To pursue a caring and creative career, where I can apply my existing knowledge, acquire new skills and contribute effectively to this nation's future, our children. Having prior experience in IT field, exploring the field to be with children lead to do the Early Childhood Education course and be the part of the little bud's life. Skills apple, Art, book, Oral, concept, conflict resolution, CPR, creativity, Designing, direction, Documentation, First Aid, Flash, fundraising, drawing, instruction, Materials, meetings, organizing, philosophy, express, Read,",
+    "output": "INFORMATION-TECHNOLOGY"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "INFORMATION TECHNOLOGY DIRECTOR Experience Information Technology Director  April 1999 to January 2015 Company Name ï¼​ City , State For the past sixteen years I was a leader of change for the largest law firm in the Central Pennsylvania area with over 275 in office users at 6 locations and over 200 work from home users. I was a visionary in regards to technical business operations, responsible for providing professional staff at various locations with efficient, up-to-date, secure and stable voice and data communications on a daily basis within budget. The ability to use good judgment, proven",
+    "output": "INFORMATION-TECHNOLOGY"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "FINANCIAL SALES CONSULTANT Professional Summary Articulate Project Manager driven to succeed. Strategic planning and client relationship management expert. Core Qualifications Written Communications, Media Relation, Planning, Secondary Research, Promoting, Marketing, Public Relation, Event Coordination , Typing (70wpm), Campaign Management,Press Kit Construction, Copy Editing, New Media, NMLS certified Interests Phi Beta Sigma Fraternity, Inc. Alpha Chapter, Social Chair and Fundraising Co-Chair;Youth Activism Leader; NCCJ Lead for Diversity Counselor, Landlord over rental properties Skills Te",
+    "output": "AGRICULTURE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "FINANCE MANAGER Summary Pro-active, results-oriented, deadline driven with broad experience in all aspects of accounting and financial management. Solid planning and organizational skills in coordinating all aspects of each project from inception through completion. Sees the big picture and plans appropriate strategies to achieve results. Well disciplined with proven ability to manage multiple assignments efficiently under extreme pressure while meeting tight deadline schedules. Strong team builder and facilitator, creates an atmosphere that encourages individual growth among accounting profes",
+    "output": "FINANCE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "R&D NEW PRODUCT DEVELOPMENT TECHNICIAN Experience R&D New Product Development Technician , 10/2015 to 10/2019  Company Name â€“ City , State  Assembling work orders per process sheet. Document control. Revising, Reviewing Engineering Work Orders as well as procedures for assembly. Help engineers develop engineering work orders as well as putting together work instructions for operations room. Clean room experienced. Kanban Experienced. Kitting Materials for production floor. 5S Lean Manufacturing Knowledge. Experience with ISO quality systems. Inspecting materials to ensure they meet productio",
+    "output": "FITNESS"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "SAFETY INTERN Areas of Expertise Occupational Safety Microsoft Word, Excel, Power Point, E-Tools Professional Experience 05/2015 to 08/2015 Safety Intern Company Name - City , State Walkthroughs of plant to make sure proper personal protective equipment is being worn by all employees, transition from Material Safety Data Sheet to Safety Data Sheet, implement GHS labels for the chemicals, being in charge of safety to new hire orientation, safety audits, cost benefit analysis of new warning lights in one of our buildings. 01/2014 to 07/2015 Security Guard Company Name - City , State Directing tr",
+    "output": "AGRICULTURE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "MEDICAL SCRIBE Professional Summary To obtain a position in patient care and research that will allow continual growth of personal knowledge, in a progressive environment that facilitates improvements in the physical health and well being of others, and my community. Skill Highlights Charting expertise Understands medical procedures Medical terminology knowledge EMR knowledge Venipuncture Laboratory procedures- microbiology, chemistry, anatomy Professional Experience Company Name August 2014 to Current Medical Scribe  City , State Assist in transition to electronic medical records, essentially",
+    "output": "FITNESS"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "SUSHI CHEF Executive Profile 14 years experience in high end restaurants with a background in French, Japanese and Peruvian Cuisine.Â Expertise in all facets of kitchen management, including Food cost Percentage, labor cost budgeting, scheduling, menu developing and strategic planning.Â  Professional Experience May 2005 to November 2011 Company Name City , State Sushi Chef In charge of daily operation in the sushi bar, quality control, monthly inventory, menu developing, scheduling for 10 employees.Â  November 2011 to January 2015 Company Name City , State Executive Sous Chef In charge of dail",
+    "output": "CHEF"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "CUSTOMER SERVICE MANAGER Summary Pleasant and energetic Office Professional with excellent written and oral communication skills and knowledge of use of Office Systems Technology including: Microsoft Office Word, Excel, and PowerPoint seeking a role of increased responsibility and authority while committed to delivering high quality results. Skills Microsoft Office proficiency Self-starter Meticulous attention to detail AS/400 Professional and mature Medical terminology Resourceful Proofreading Dedicated team player Understands grammar Strong interpersonal skills Business writing Results-orien",
+    "output": "APPAREL"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "APPAREL SALES ASSOCIATE/CASHIER Summary Administrative professional offering excellent communication and computer skills. Meets deadlines and works with a high level of multicultural awareness and adaptability. Enthusiastic and well-organized Administrative Assistant with solid background in data entry, schedule management and event planning. Disciplined warehouse professional knowledgeable about material load capabilities, site analysis and general logistics. Friendly and reliable customer service professional skilled in achieving sales targets in high-end merchandise environments. Skills Exc",
+    "output": "APPAREL"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "TELEPHONE INTERVIEWER Summary Organized, task oriented professional with experience in customer support. Background includes skilled active listener, strong customer service experience and ability to respond to the end-user in a business professional manner. I am highly effective in using technical domain knowledge. Self-starter committed to taking ownership and capable of completing assigned projects independently and in a team environment. Highlights Data Entry Data Serve Ibex 10 keying Microsoft Excel Microsoft Outlook Office Equipment Administrative Services Google Mail Accounts payable an",
+    "output": "AGRICULTURE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "HR CONSULTING Summary 7+ years of Experience as a HR Partner with experience in all the facets of the Human Resource Function. Extensive background in HR generalist affairs, including experience in Recruiting, On boarding, Performance Management, employee retention, staff development, mediation, conflict resolution, Benefits and compensation, HR records management, HR policies, Jobs and Competencies. Demonstrated success in negotiating win- win compromises, developing teambuilding programs, corporate policies. Experience in Recruitment: Full life cycle recruiting involving Resourcing, Sourcing",
+    "output": "HR"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "SVP, BUSINESS BANKING Executive Profile Executive Banker with experience in all facets of banking: growth strategy (retail and commercial); operations; business development; and sales and marketing, all with an entrepreneurial spirit. A macro-level thinker with a proven track record for structuring and negotiating sound, credit-worthy business and building strong teams, able to meet company-wide financial goals. Professional Experience July 2015 to Current Company Name City , State SVP, Business Banking AUB was founded in 2006 by a diverse group of Los Angeles-based entrepreneurs whose vision",
+    "output": "BANKING"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "ADMINISTRATIVE ASSISTANT Career Overview I would like the opportunity to enhance your department with my experience, skills, and knowledge. * Over 1.5 years as an assistant in the medical field. * Over 6 years in customer service and sales. * Medical Billing and Coding Associates Degree completed in December 2012. Skill Highlights Microsoft Office (Access, Excel, Outlook, PowerPoint, Word) Quickbooks 2012 Medisoft Â​ Electronic Medical Records: Practice Management Software Eyefinity Â​ OfficeMate: Practice Management Software Eyefinity Â​ ExamWRITER: Electronic Health Record Software Professio",
+    "output": "CHEF"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "SALES EXECUTIVE Summary Sales and Customer Service Professional with proven record of accomplishment growing client list and maintaining existing clients. Delivered consistent gains in growth, profits and customer satisfaction and retention through expertise in customer relationship management. Expert troubleshooter, innovative problem-solver. Proactive in ensuring high levels of client satisfaction. Diverse Sales Experience Selling to Businesses, in Medical and Commercial as well as Selling to Consumers. Exceptional communication and interpersonal skills; talent for quickly establishing rappo",
+    "output": "SALES"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "ACCOUNT MANAGER/BUSINESS DEVELOPMENT Experience Account Manager/Business Development , 07/2018 to 07/2019  Company Name â€“ City , State  Responsible for simplifying diagnostics and improving global health by providing advanced and supporting advanced health care solutions. Identify, select, and develop distributors and end-users qualified to successfully represent CTK Product both domestically and internationally. Collaborate with current customers to develop new business and/or to expand existing businesses within the assigned region. Negotiate pricing agreements that balance the needs of th",
+    "output": "APPAREL"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "CONSULTANT Summary Transitioning Military Professional eager to apply acquired skills to serve Aflac and the healthcare industry. Creates business partnerships and builds trust with managers and employees to create a positive work environment through networking. Driven professional who effectively builds loyalty, long-term relationships and promoting the company's brand. Experience 03/2016 to Current Consultant Company Name ï¼​ City , State Tracked key dates and deadlines and maintained specific personnel lists. Screened 104 applicants based on their qualifications and background. Developed an",
+    "output": "CONSULTANT"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "BUSINESS DEVELOPMENT MANAGER Summary Innovative bilingual sales executive with more than 6 years of sales experience in Mexico and USA Successful at acquiring, expanding and managing key corporate accounts Core Qualifications Excellent Customer Service Skills Excellent research abilities Customer Retention Negotiation Skills Tactfulness Â​ to generate positive company image Contract review Experience Business Development Manager 05/2010 to Current  Company Name City , State Responsible of the selling of hydraulic & pneumatic equipment in Mexico and USA to clients in the Energy, Chemical & Mini",
+    "output": "BUSINESS-DEVELOPMENT"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "MORTGAGE BANKING DEFAULT OPERATIONS SPECIALIST II Objective Seeking a challenging position where I am able to utilize my customer service, trouble shooting, communication and problem solving skills towards growth and advancement within a prestigious company. Experience February 2015 to Current Company Name City , State Mortgage Banking Default Operations Specialist II Responds to internal inquiries from customer service specialists regarding issues such as missing documents, ordering certain third party services and reviewing \"specialty flags\" Facilitate the gathering of underwriting documents",
+    "output": "BANKING"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "BANK TELLER Professional Summary Personable, high-energy nursing professional. An ambitious individual who has a demonstrated ability to address patient's needs in a timely manner. Proven success in dealing with patients and families from different backgrounds. Eager to work in a busy environment to achieve the highest level of patients' satisfaction. Licenses CPR certified through American Heart Association Skills Medical Terminology Vital Signs & Patient MonitoringÂ  Electronic Health Record HIPPA Regulations/ Privacy Patient Safety & Care Patient Advocacy and Support Medication Administrati",
+    "output": "AVIATION"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "BANK OPERATIONS ANALYST Summary To utilize the skills that I possess in a challenging diverse working environment. Highlights analytical customer service communication skills Accomplishments PBOL program 2013 graduate Experience Bank Operations Analyst 01/2010 to Current Company Name City , State Responsible for reviewing and processing Returned Deposited Items (RDI), Returned Cash Items and Non Post Items Complete operational functions including approving G/L tickets and Key Master reports prior to forwarding to Data Entry for processing Assist teammates in monitoring department mailbox, rese",
+    "output": "BANKING"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "DIRECTOR OF SOCIAL MEDIA MARKETING Executive Profile A marketing professional and seasoned leader with over 20 years of entertainment industry experience and passion that includes social media strategy, brand marketing, advertising, and promotions. Professional Experience 10/2011 to Current Director of Social Media Marketing Company Name ï¼​ City , State Responsible for all social media strategy, budgets, promotion, & execution integration into Brand Marketing 360 plans for all USA Network, the #1 Cable Network for the last 8 years, including Suits, Royal Pains, Graceland, White Collar, Chrisl",
+    "output": "DIGITAL-MEDIA"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "HR GENERALIST Professional Profile Responsible administrative support professional with extensive experience in Project Management and Finance environments. Organized and detail-oriented with strengths in project management and inventory control. Certified Professional in Human Resources (PHR) with additional state certification from US Armed Forces offering a 9 year HR career distinguished by commended performance and proven results. Extensive background in HR generalist affairs, including experience in employee recruitment and retention, staff development, mediation, conflict resolution, ben",
+    "output": "HR"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "SENIOR MARKETING AUTOMATION CONSULTANT Summary I am a passionate and technically-skilled marketing automation consultant, committed to building trusted relationships with clients, vendors, colleagues, and people who dream big. My mission is to empower modern marketers and organizations to achieve success, innovation, and business value through marketing automation and technology.  My background includes a unique and diverse mix of experience in both corporate and independent/small business settings, creating a well- rounded and distinct blend of strengths including creative, strategic, analyti",
+    "output": "ARTS"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "SENIOR BUSINESS DEVELOPMENT MANAGER Summary Business development professional experienced in sales management, marketing and applications engineering of filtration and drying systems to the bio-pharmaceuticals, fine chemicals, agro-chemicals, and other industries. Highlights Accomplishments Supercharged sales of high-valued filtration systems to customers in the bio-pharmaceuticals, specialty chemicals, agro-chemicals, and other industries using consultative selling techniques, to consistently achieve 50%+ year-over-year growth with outstanding gross margins (Heinkel) Sales/Application Enginee",
+    "output": "BUSINESS-DEVELOPMENT"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "SR. FREELANCE DESIGNER/PRODUCT DEVELOPMENT MANAGER Summary Product Development Manager/Sr. Designer of Apparel, Packaging, and Graphics. Responsible for delivering the fashion needs on a wide range of products. Ability to collaborate with the Product Development team, to execute production. Create trend/theme boards, color palettes and hand/computer sketch. Strong understanding of production as well as cost structure and technical packages. Ability to provide clear, accurate, and complete specifications for each style. Area of Expertise: Strong fabric knowledge of Cut n Sew, Woven's, & Sweater",
+    "output": "APPAREL"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "INFORMATION TECHNOLOGY MANAGER Professional Summary Possesses an extensive background in Information Technology Management, along with a Masters of Science degree and multiple certifications. Excels in planning, implementing, and evaluating the systems, infrastructure, and staffing necessary to execute complex initiatives and meet deadlines in dynamic, fast-paced environments; adept at overseeing and participating in the installation, configuration, maintenance, and upgrade of networks, hardware, servers, and peripherals. Detail-oriented and decisive; applies communication and leadership skill",
+    "output": "INFORMATION-TECHNOLOGY"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "BUSINESS DEVELOPMENT MANAGER Professional Summary Served as resourceful and self directed business development manager. Defined and executed strategies and operations while leading collaborative full project cycles with National and Local Governments across Southern Africa. Spearheaded projects which improved life and health for over 40M people by providing low cost, safe, clean and reliable renewable energy- solutions to the complex regional electricity problem. International development experience and effective record of leading sales, strategic plans and financial reporting across three con",
+    "output": "BUSINESS-DEVELOPMENT"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "REGIONAL HR MANAGER Summary Holistic HR Professional with 5 years 7 months experience in Human Resources vertical in areas of recruitment, employee relations and performance management after completing 2 years of full time Experience Regional HR Manager Aug 2015 to Dec 2016  Company Name ï¼​ City Looking for good HR opportunities in San Francisco Bay Area. VISA STATUS:\"Work Permit-No Visa sponsorship Required\" Skills Staffing and recruiting professional Microsoft Office Suite expert Interviewing expertise HRIS applications proficient On Boarding/Off-boarding Report Writing Employee relations N",
+    "output": "HR"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "DESIGN DIRECTOR / SENIOR DESIGNER Professional Summary Passionate Design Director with extensive talents in providing clear instructions to team members and supervising budgets to ensure project profitability. A natural leader with more than 10 years' experience leading successful and talented design teams. Seeking a new position as a Senior Designer with a great organization. Skills Apparel Design Adobe Photoshop Originality Adobe Illustrator Garment construction Superb eye for detail Ability to effectively plan Project presentations Teamwork skills Pattern making Illustration Sketchbook Pro",
+    "output": "APPAREL"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "SENIOR ACCOUNT EXECUTIVE Experience 10/2011 to Current Senior Account Executive Company Name ï¼​ City , State 10/2011 to Current Senior Account Executive Company Name ï¼​ City , State Serve as day-to-day contact for senior level Microsoft clients (e.g. collaborate, strategize and counsel on approach to business problem and/or storytelling goals) Oversee strategic storytelling efforts in major metropolitan markets that aim to grow consumer perceptions of Microsoft and its positive impact on a community (e.g. markets include New York, San Francisco, Seattle, Boston, Los Angeles etc.) Integrate w",
+    "output": "PUBLIC-RELATIONS"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "INFORMATION TECHNOLOGY COORDINATOR Professional Summary Highly talented and accomplished Paralegal with extensive experience in investigative and online legal research. More than 5 years of experience working in the legal field. Knowledgeable in all aspects of case preparation and representation, previous court experience, familiar with filings, petitions, case management, and interviewing. Excellent research, documentation, reporting abilities, outstanding communication and presentation skills. Predisposed to procedural and methodological approaches to problem solving and analysis. Detail ori",
+    "output": "INFORMATION-TECHNOLOGY"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "ENGINEERING INTERN Summary Candidate with a fifteen months experience in production supervising and manufacturing seeking opportunity in field of Quality, Supply Chain and Manufacturing Highlights DMAIC, Failure Modes and Effective Analysis (FMEA), Kaizen, Lean Manufacturing , 5S, Value Stream Mapping, Root Cause Analysis, PFMEA Quality tools: Statistical Process Control, Process Capability, ANOVA, Gage R & R Software: Programmable Logic controls (PLC), Discrete Control system (DCS), Microsoft office, Minitab, Pro-E, Working knowledge of Auto-Cad , C++, C, Visual Basics, Process flow diagram A",
+    "output": "ENGINEERING"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "STORE MANAGER Summary Energetic and versatile professional seeking to utilize and expand existing retail management skills with a growth oriented company. Professional Sales Manager with experience coordinating a wide range of business activities in fast-paced sales environment Self motivated and experienced in prioritizing projects and achieving results Strong understanding of sales, merchandising and customer service strategies Strong communicator with excellent work ethics and ability to continuously acquire new skills Highlights Established track record of exceptional sales results Goal-or",
+    "output": "APPAREL"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "ROUTE MANAGER Summary To obtaining a position in a company that will allow me to better use my skills and knowledge to advance the performance and profitability of that company. Goal oriented, self-motivated with twenty years of experience as a Supervisor/Manager of personnel, products, and budgets. Driven to tackle projects that advance the organization and build collaboration/teamwork among peers and subordinates. Leader of the consistently, number one ranked office for the MasTec Money sales program. Major strengthens include demonstrated track record of honesty, integrity, and loyalty; sou",
+    "output": "APPAREL"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "SALES Summary Extremely loyal, ambitious and a hard working individual looking to leverage my high level of customer service skills to excel in a professional sales environment. Experience Sales  January 2014 Company Name ï¼​ State Care Wear Uniforms 2014 Â·Replenish product bins and product racks. Load/Unload vans a various hospitals. Set up \"retail\" type stores in said various hospitals. Inform customers about new product. Assist customers with their purchases. Receiving and preparing product, maintaining the Grocery floor and displays, and selling product in support of regional Grocery stan",
+    "output": "SALES"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "LEAD ENGINEER - FLUID SYSTEMS AND THERMAL ACCESSORIES Summary Forward thinking Mechanical Engineer with several years of experience in product design and development, process improvement, project management, and quality assurance, comprehensive understanding of design processes, manufacturing methods and sound engineering principles. Skilled in use of engineering tools such as FEA, UG NX, GD&T Lean Six Sigma with a strong understanding of engineering mechanics, principles and materials. Demonstrated leadership skills that optimize collaboration between departments to produce high-quality aeros",
+    "output": "AVIATION"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "ADVOCARE DISTRIBUTOR Executive Summary Experienced, energetic Personal Trainer and former college/professional athlete with over 20 years conducting group and one-on-one training sessions in large gyms, as well as small fitness studios. Specializing in strength and conditioning, flexibility training, fitness program design with advanced training in metabolic testing, nutrition and weight management consulting. Formal training in the health and fitness field of business development and leadership training. Extensive sales and customer service experience. Core Qualifications Fitness assessments",
+    "output": "FITNESS"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "BUDGET FINANCE SPECIALIST SENIOR Summary Dynamic finance professional with a strong background in all aspects of accounting and financial management. Successful at managing multiple assignments while meeting tight deadlines. Highlights Financial analysis Complex problem solving Financial reporting expert Account reconciliation Self-motivated professional Revenue/Expenses management UFARS Superior time management PeopleSoft expert Bookkeeping SAP/MS Office Suite (Excel) Budgeting expert Business process improvement School Finances Accomplishments Promoted to senior role with added responsibilit",
+    "output": "FINANCE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "OWNER Executive Profile Objective: Driven, analytical, creative leader with 25+ years experience in business, customer service, higher education, utilities, insurance, the arts and public education. Motivated IT leader in project management, client training, and comprehensive development of innovative client solutions, and enabling creative changes across an organization. Provide customer service leadership to propel business into the public arena and meet !the business objectives. Achieve business objectives through passion, commitment and experience in: Customer Service - Project Management",
+    "output": "ARTS"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "SCHOOL COUNSELOR Summary Seeking a full-time counseling/psychology instructor position to help students become successful in life and to design healthy learning and social environments in assisting them to develop an educational plan while promoting multiculturalism in school activities; help with testing situations/environments Professional Experience School Counselor  September 2013 Company Name - City , State Conduct individual counseling sessions, taught classroom guidance lessons related to character traits and bullying, consulted with parents regarding strategies to help their children w",
+    "output": "ARTS"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "BRANCH MANAGER Summary More than 5 years successful experience in customer service and support with recognized strengths in account maintenance, problem-solving and trouble-shooting, sales staff support, and planning/implementing proactive procedures and systems to avoid problems in the first place. Ability to work in partnership, with leaders and different partners within the company. Bilingual Professional, able to speak Spanish and English fluently. Ability to train, motivate, and supervise customer sales & service employees. Ability to multitask within fast paced environments Capable of ad",
+    "output": "FITNESS"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "A LA CARTE CHEF/ CHEF DE CUISINE Summary A professional cook with 10+ years of combined on the job work training and experience, with a background in managerial and non-managerial positions from high quality restaurants and organizations, with a firm foundation built on the respect and execution of proper cooking techniques, and the importance of always being able to learn and grow as a professional. Highlights Focused and disciplined High volume production capability Focus on portion and cost control Inventory management familiarity Sous vide technique Effective Communicator Organizational Sk",
+    "output": "CHEF"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "PROGRAM ADMINISTRATOR Executive Summary Results-focused management professional offering 15 years of progressive leadership experience. Transforms high-potential staff into outstanding leaders who demonstrate the creativity and savvy that is critical to financial and operational success. Professional Experience Program Administrator  January 2013 to January 2015 Company Name ï¼​ City , State Impart support to Program Management team and Coordinated with Program Managers. Corresponds with customers, Managed difficult and sensitive issues. Manage difficult and sensitive issue and Interpreted tec",
+    "output": "BANKING"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "FLORAL DESIGNER Summary I have been involved in the Retail Industry for over 44 years. In those years I have been employed as a sales associate or as aÂ floral designer. I have also been in those yearsÂ a assistant manager, a manager, and aÂ retail store owner with complete skills in day to day operations, problem solving, training, employee motivations,Â encouragement, merchandising, ordering product, and in every aspect of human resources that I was responsible to know and implement in the retail establishment I was employed by at that time if my service to them, Highlights Effective Retail",
+    "output": "DESIGNER"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "OWNER/CHEF Summary Chef with 6 years of critically acclaimed work preparing delicious, healthy dishes in multiple restaurants as well as starting own business. Specializes in preparing menus that attract and retain customers. Looking for a challenging role in culinary management. Line Cook with 15 years of experience in high-pressure culinary environments. Skilled in preparing large volumes of food quickly and efficiently. Seeking to use culinary skills and expertise to prepare a special variety of dishes in a professional, rewarding environment. Highlights Sous vide technique Strong butchery",
+    "output": "CHEF"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "TEACHER Professional Summary Highly organized and detail-oriented Administrative ProfessionalÂ with more than 10Â years experience supplying thorough, organized administrative support toÂ senior executives. Skills Filing and data archiving,Â Employee training and development,Â Critical thinker,Â Microsoft Office (Excel, Publisher, PowerPoint, Word),Â Multi-line phone proficiency,Â Advanced clerical knowledge,Â Invoice processing,Â Accounting familiarity,Â Appointment setting,Â Social media knowledge,Â Works well under pressure,Â Excellent planner and coordinator,Â Accurate and detailed,Â  Cust",
+    "output": "TEACHER"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "REGIONAL IT MANAGER Professional Summary Exceptional IT Manager talented at personnel management, vendor management and business strategy development. Technically-savvy with outstanding relationship building, training and presentation skills. Languages spoken: English, Conversational Chinese Skills Team leadership Budgeting and finance Project management Process implementation Staff development Data management Self-motivated Strong verbal communication Powerful negotiator Conflict resolution Risk management processes and analysis Work History 09/2012 to Current Regional IT Manager Company Name",
+    "output": "BANKING"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "ENGINEERING INTERN Summary Motivated Entry Level Civil Engineer with technical knowledge and a quality assurance mindset necessary to conquer unforeseen obstacles. Organized, detail-oriented, and efficient work ethics. Committed to high performance and mastering tasks to better future duties.Â Â  Relevant Courses Materials of Construction Construction Management Reinforced Concrete Structural Steel Design SurveyÂ  Engineering Leadership Foundation Design Environmental Engineering Soil Engineering Transportation Engineering Experience Company Name City , State Engineering Intern 05/2017 to 08/2",
+    "output": "ENGINEERING"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "ACCOUNT DIRECTOR Summary Dedicated professional with experience necessary in food and beverage for excellent guest service. Seeking to deliver great service and great food while maintaining the financial responsibility and core standards of any operation. Highlights Certified Executive Chef Certification in Nutrition Certified in Human Resource Management and Supervision American Culinary Federation Member Certification in Professional cooking theories Graduate of the Culinary Academy of South Dakota Experience Company Name City , State Account Director 06/2013 to Current Responsible for entir",
+    "output": "CHEF"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "MARKETING AND SPECIAL EVENTS COORDINATOR Summary Detail oriented, organized and personable Event Coordinator relocating from the West Coast. In depth understanding of the value of planning and confirming details of events to ensure success. Brings over 6 years of experience and lessons learned to ensure all elements of an event come together smoothly.Â  Core Qualifications Vendor and subcontractor negotiations/relations Combination of big picture thinking and attention to detail Relationship building Prioritization Clear communications with all parties Time line of required actions for success",
+    "output": "PUBLIC-RELATIONS"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "CHEF INSTRUCTOR PROFESSOR Summary Dynamic, resourceful and skilled Teacher Instructor, Business Owner and Chef with years of experience.Problem Solver, Strategic Planning, Risk Management, Service Quality Improvement, Staff Training, Staff-Retention Programs, Team Building, Team Leadership, Takes immediate action if problems arise, Motivator, Problem Resolution, Employee Scheduling, Event Management and Promotion, Expense Control, High level of work Standards, Adjust Priorities Quickly, Understands and motivates employees and customers by analyzing and understanding and making them feel valued",
+    "output": "CHEF"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "SOFTWARE SUPPORT SPECIALIST Professional Summary Dedicated Customer Service Representative motivated to maintain customer satisfaction and contribute to company success. Skill Highlights Strong organizational skills Energetic work attitude Telephone inquiries specialist Customer service expert Telecommunication skills Adaptive team player Active listening skills Sharp problem solver Work Experience Software Support Specialist  Company Name ï¼​ City , State Evaluated system potential by testing compatibility of new programs with existing programs. Maximized use of software by training users; in",
+    "output": "AUTOMOBILE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "CAREER SENIOR EXECUTIVE SERVICE MEMBER / DIRECTOR FINANCE, SYSTEMS AND BUDGET GROUP Executive Profile Accomplished, highly respected executive with extensive public and private sector health care and financial management experience. Proven ability to lead and mentor large and diverse teams; build and maintain relationships that transcend corporate, cultural, and geographic boundaries; and improve systems and processes to increase productivity, profitability, and customer satisfaction. Excels in driving positive change and managing in ambiguous and transitional environments. P&L Policy Developm",
+    "output": "BANKING"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "SOUS CHEF Summary To bring my positive attitude, strong work ethic and strong team attitude to a new career opportunity. Highlights Adaptive team player Customer service expert Strong organizational skills Deadline-driven Focused and driven Positive attitude Accomplishments Supported all kitchen operations when chef was absent. Assisted in maintaining preparation and service areas in a sanitary condition. Received 4â€œexceeds expectationsâ€​ ratings on performance reviews. Recognized by peers and management for going above and beyond normal job functions. Work Experience Sous Chef  March 2013",
+    "output": "CHEF"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "EQUIPMENT ENGINEERING TECHNICIAN Professional Summary SkilledÂ Maintenance MechanicÂ Technician with superb problem solving and multi-tasking skills. Self-directed and motivated worker. To obtain a position where Teamwork, Integrity and Proffesionalism are a high standard in the Company's Mission Statement. All while engaing in new challenges and learning experiences. Skills Â·Â Â 20 years of Material Management experienceÂ with State and Federal Government Â· 13 years of Law Enforcement experience with the United States Marine Corps and Army National Guard.  Â·Â Knowledge of mechanical test e",
+    "output": "ENGINEERING"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "ACCOUNTANT Summary Self-motivated Accountant â€‹ Â offering a strong work ethic and determination to complete tasks in a timely manner. Accurate and detail- oriented with extensive bookkeeping and clerical knowledge. Skills Accounts receivable professional Skills Sales Software: Salesforce.com, TapScan Public Relations Software: Bacon's Mediasource, Factiva Desktop Publishing Software: Photoshop, Illustrator, HTML Experience 03/2010 to Current Accountant Company Name ï¼​ City , State Executed accounts receivable reporting enhancements and reconciliation procedures.Evaluated accounting requirem",
+    "output": "ACCOUNTANT"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "FINANCE DIRECTOR AND TREASURER Professional Summary Skills Exceptional interpersonal communication Effective leader Project management Financial management Fiscal budgeting Customer service-oriented Team building Human resources management Work History Finance Director and Treasurer , 09/1998 to 09/2008  Company Name â€“ City , State  Supervise all units in the Finance Department including revenue, budget, purchasing, general ledger accounting, accounts payable and receivable, payroll and utility billing. Direct the treasury functions for the City and South County Regional Wastewater Authority",
+    "output": "FINANCE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "STUDENT TEACHER Summary Visual Arts Specialist with 11 years experience in elementary art education. Demonstrated skill in individualizing instruction based on students' needs and interests. Highlights Adobe Creative Cloud: Illustrator, InDesign, Photoshop, Muse Microsoft Office: Word, Excel, PowerPoint WordPress iMovie Ohio Teaching Licensure, Visual Arts, PK-12 Experience Company Name October 2003 Student Teacher  City , State Designed and implemented daily lesson plans based on Oak Hills School District Visual Arts Curriculum, National Visual Arts Standards and Ohio Visual Arts Standards. E",
+    "output": "ARTS"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "HR ASSISTANT/PAYROLL Highlights Paychex, Mastertax, ABRA, Time Star, InfoTronics, Store Master, Dominion, QuickBooks Ceridian, PeopleSoft, SAP, Microsoft Word, Excel and PowerPoint, Crystal Reports Experience HR Assistant/Payroll Company Name ï¼​ City , State Human Resources professional offering over 15 years of combined HR and payroll experience in both manufacturing and academic settings Accurate and timely preparation of employee payroll, payroll tax information, and employee benefits administration Highly effective employer representation in unemployment claims and hearings. 01/2014 to 01",
+    "output": "HR"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "SOCIAL ENGAGE SALES Summary My Current role represents Komli's entire social media business across Thailand. I take Komli's social offerings to brand and performance advertisers as well the regional/local agencies. This is involve going to market with social advertising options across Facebook, Twitter and other social partnerships that Komli brings to market. It also involves demonstrating the use of Komli's technology offerings across social and how they benefit customers in the long run. I am not only be directly responsible for the team's targets, growth, retention etc. but would also be i",
+    "output": "DIGITAL-MEDIA"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "INFORMATION TECHNOLOGY (IT) SPECIALIST Experience Information Technology (IT) Specialist  January 2012 Company Name IT Specialist Project Engineer  December 2009 to Current City , State U.S. Army Information Systems Engineering Command (USAISEC) on projects involving large and complex data networks and telecommunications systems while assigned to the Fort Huachuca Engineering Directorate of USAISEC. I develop, manage and coordinate the implementation of network communications, local area networks (LANs), visual information systems (VIS), and information technology (IT) infrastructure projects.",
+    "output": "INFORMATION-TECHNOLOGY"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "ADMINISTRATIVE ASSOCIATE II, CONSTRUCTION MANAGEMENT DEPARTMENT Professional Overview Committed and motivated Administrative Assistant with exceptional customer service and decision making skills. Strong work ethic, professional demeanor and great initiative. Â  Summary of Skills Professional verbal and written communication Type 80+ wpm Strong analytical and organizational skills Excellent interpersonal skills Professional phone manner and office etiquette Schedule management Self-starter Employee training and development Microsoft Office proficiency Meticulous attention to detail Results-ori",
+    "output": "CONSTRUCTION"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "HR GENERALIST Summary HR Generalist with 8 yrs of professional experience in employee recruitment, orientation, engagement ,assimilation and termination procedures . Highlights â€¢Employee recruitment â€¢Talent Acquisition â€¢New employee orientations â€¢Employee Engagement and assimilation â€¢Vendor Management â€¢Termination procedures â€¢MS Office proficient Experience HR Generalist  November 2006 to May 2015 Company Name - City , State Onboarding: Welcoming the new employees onboard by ensuring they have a pleasant experience. Verifying and collecting all the mandatory educational & employm",
+    "output": "HR"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "APPLECARE CPU ADVISOR Summary My goal is to establish a rewarding career in customer service and data entry using my skills in excel proficiency and organization, while being collaborative with a team to serve consumers to provide a positive customer experience. Highlights Microsoft Office proficiency Excellent communication skills Microsoft Excel certified Filing and data archiving Time management Customer service-oriented Self-directed Exceptional telephone etiquette Accomplishments Reduced technical escalations to management by 95% to only 2-3 per day. Skills Advertising, Budget Maintenance",
+    "output": "PUBLIC-RELATIONS"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "PREVENTATIVE HEALTHCARE INTERN Professional Summary Driven and compassionate healthcare professional with experience in bothÂ residential and hospital environments. Accountable and responsible with a strong focus on patient wellness. Education and Training Bachelor of Science : Health Care Management/ Health Administration , 2016 University of Alabama at Birmingham - City , State , USA Member of National Society of Collegiate Scholars High School Diploma : Advanced Diploma , 2012 Nansemond River High School BETA Club- Health Organizations Skill Highlights Knowledge of HMOs, Medicare and Medica",
+    "output": "HEALTHCARE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "HEALTH INFORMATION SPECIALIST Summary Highly efficient, detail oriented HIM Specialist with extensive experience in all types of request relating to release of information and medical record management. Dedicated professional skilled in technical and clerical support with strong ability to clearly and professionally communicate with providers, patients, attorneys and insurance companies. Over 10 years Health Information experience. Skill profile *Enhanced knowledge of HIPAA and HITECH compliance; state and federal laws governing release of protected health information in both paper and electro",
+    "output": "HEALTHCARE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "FLORAL DESIGNER Summary I am a retail floral designer who is energetic, outgoing and detail-oriented. I can handle multiple responsibilities simultaneously while providing exceptional customer service. I have been in floral sales for 13 years and in other avenues of retail sales for over 20 years. I am a driven and results-focused professional seeking a position in a company in which I can share my talents. Experience 10/2014 to 01/2015 Company Name City , State Plan arrangement according to client's requirements, utilizing knowledge of design and properties of materials, or select appropriate",
+    "output": "DESIGNER"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "ENGINEERING AND QUALITY TECHNICIAN Career Overview A highly experienced skilled graduate with Analytics degree with a very good experience in SAS, Web scraping, SQL, Predictive modelling and data visualization. Excellent ability in identifying data requirements for analysis, data cleaning, munging and model building; Ensures the organization uses it effectively to reach profit and growth objectives. Comfortable with data handling, modeling, and coding, and have an appreciation of what makes sense from a business standpoint. More than six years of experience working as a researcher, data analys",
+    "output": "ENGINEERING"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "RESEARCH ASSOCIATE Summary 15+ years of research experience in agricultural research 5 years of extension experience as a agronomic resource professional PhD in Soil Science and Crop physiology (minor) Strong experience in conducting and managing research trials of various crops Strong experience in various crop production systems Strong multidisciplinary background: customer support to field research Strong experience in GIS web application Development using HTML5, JavaScript, CSS3 ,PHP Strong Experience in - water and nutrient management, drought stress Instruments - Licor 6400, CIRAS3, Camp",
+    "output": "AGRICULTURE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "FINANCE CONTROLLER Summary Established goals and objectives, developed policies and procedures, recruited and trained staff, initiated and enhanced automated systems. Turned around \"problem areas\". Ensures compliance with and knowledge of governmental regulations and requirements. Defined and closely monitored short-and long-term goals and objectives for all departments. Excels at interacting with broad populations including senior management, staff, patients, and external auditors. Highly versatile, quickly masters' new roles, responsibilities, technologies, and environments. Initiate and spe",
+    "output": "FINANCE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "SENIOR BUSINESS DEVELOPMENT MANAGER Executive Summary Resilient and focused management professional providing 15+ years of progressive leadership experience with proven success in developing, growing, and managing account portfolios. Strong strategic-planning and people-management skills. Leverages in-depth knowledge of industry trends and shifts to offer valuable insights on opportunities for new growth and expansion. Organized and diligent, with excellent written, oral and interpersonal communication skills. Core Qualifications Strategic positioning Contracts Strategic planning Critical thin",
+    "output": "BUSINESS-DEVELOPMENT"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "PR & EVENT MANAGER Summary Experienced creative marketing professional who consistently delivers high-quality and results-focused marketing content. In-depth knowledge of social media and PR management with expertise in identifying emerging market trends. Experience PR & Event Manager Jan 2015 to Current  Company Name ï¼​ City , State Coordinate all public relations activities. Manage social media platforms to engage audiences across traditional and new media. Research influencers and initiate collaborations. Develop a marketing communications plan including event strategy, sponsorship budget,",
+    "output": "APPAREL"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "ACCOUNTANT II Summary A Professional Accountant with more than 10 years of full-range, progressive accounting experience in general accounting and financial reporting. I have a solid understanding of GAAP and experience in Regulatory (Statutory) STAT Accounting Principles. Also with proven ability to manage multiple assignments while meeting tight deadline schedules. Possess reputation as a self-directed professional with excellent problem solving and analytical and communication skills. I also have a proven track record of performing work in an ethical manner while consistently maintaining th",
+    "output": "ACCOUNTANT"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "EXECUTIVE CHEF/ FOOD SERVICE DIRECTOR Executive Profile As a Chef, I have been exploring my passion for food and developing clean, healthy cooking techniques for over 30 years.This is done by executing successful operations strategies, decreasing staff turnover and developing winning menus according to consumer preferences. Proven front and back of house operations experience with an excellent track record in budgeting, decreasing costs while expanding business operations. Recognized as a highly effective leader with strong strategic planning, communication and staff management skills. This ha",
+    "output": "CHEF"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "BUSINESS DEVELOPMENT ASSOCIATE Executive Profile Award-winning sales executive with international sales experience. Skill Highlights Professional Experience Business Development Associate  January 2015 to Current Company Name - City , State Responsible for prospecting and developing relationships for unqualified, and qualified sales leads through Market Master, Sales Force, cold calls and networking. Generated over 60 - 70 sales calls per day and distributed sales materials to the appropriate future clients. Secured appointments for the District Mangers I am assigned to. Built relationships wi",
+    "output": "BUSINESS-DEVELOPMENT"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "CONSTRUCTION MANGER III Summary Motivated Professional Construction Manager with excellent interpersonal skills. Works in a timely and efficient manner to see tough jobs through to completion. Bringing valuable experience from large corporate construction sites, as well as residential home repair projects. Highlights CPR certified and standard first aid Storm Water Compliance Manager Ultraweld Exothermic Connection training Knowledge of transformers, high voltage switchgear, automatic tansformer Switch, Single and Three-phase power Proficient in; MS Excel, MS Word Excellent customer service, c",
+    "output": "CONSTRUCTION"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "ASSOCIATE CLAIM PROCESSOR/MEMBER SERVICE ADVOCATE Summary After 29 years' of working in an industry that puts people at the forefront of their business, I have a proven track record of building and maintaining relationships and an impeccable customer service background. My objective is to continue to put people first, build strong and long last relationships and to use my expertise in the customer service field, to give the customer an exceptional experience.Â  Skills Customer service Verbal and written communication Team collaboration Problem solving and decision making  Strong Analytics Stro",
+    "output": "ADVOCATE"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "BUSINESS DEVELOPMENT & DIGITAL MEDIA MARKETING SPECIALIST Summary A self-starter and dynamic professional with over nine years of sales, marketing and customer service experience. Key strengths include critical thinking, creativity in developing new sales strategies, resourceful problem solving and the ability to maximize resources. Outstanding oral and written skills with demonstrated success in building relationships with co-workers, management, external partners and customers. Bilingual communication skills in: Portuguese native language) and English (business level). Accomplishments Awarde",
+    "output": "DIGITAL-MEDIA"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "CHEF MANAGER Professional Summary Food Production Management â€“ K12 Chef Management Experience â€“ National School Lunch Program Oversight â€“ Food Safety Champion â€“ Culinary Innovation â€“ Proven Team Leader â€“ Creative Recipe Presentations â€“ Training & Development â€“ Contract Management- Inventory and ordering managementâ€“ Procurement Analysis â€“ Auditing Management â€“ Waste management skills â€“ Food Cost & Labor Management â€“ Strong Catering abilities â€“ Restaurant Management skills â€“ Team Player â€“ Excellent communication skills â€“ MS Office Proficient â€“ Budgeting & Invo",
+    "output": "CHEF"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "SALES Summary Enthusiastic, reliable and wellÂ​ organized Office Assistant with solid background in data entry, communication, telephone and customer service skills. Ability to manage daily office functions with a strength in managing multiple projects simultaneously. Highlights Professional mature attitude and appearance Professional phone etiquette Excellent communication skills Effective time management, organization, and multi- tasking skills Quick to learn Dependable Ability to work independently and collaboratively Customer service-oriented Detail oriented Ability to work under pressure",
+    "output": "SALES"
+  },
+  {
+    "instruction": "Classify this resume into the appropriate job category based on the candidate's experience and skills.",
+    "input": "LANGUAGE ARTS TEACHER Professional Summary To continue working with children, as well as youth where I will be able to utilize all skills in my expertise area (elementary/middle school.) Core Qualifications Ability to communicate, inspire trust and confidence, and motivate children, as well as understand children's educational and emotional needs. Ability to recognize and respond to individual and cultural differences in children and employ different teaching methods that will result in higher student achievement. Organized, dependable, patient, and creative. Able to work cooperatively and com",
+    "output": "ARTS"
+  }
+]

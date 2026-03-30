@@ -2,7 +2,7 @@
 
 > **Generative AI system using Qwen2.5-3B-Instruct + 4 task-specific LoRA adapters for intelligent CV 
 
-## 📌 Project Overview
+##  Project Overview
 
 The **HR Agent** is a multi-task AI system that automates resume analysis using **Parameter-Efficient Fine-Tuning (PEFT/LoRA)** on a large language model. Instead of training one general model for everything, we train **4 specialized LoRA adapters**, each focused on a single HR task. At inference time, the system **dynamically switches** between adapters — loading only the needed one on top of the frozen base model — making it both memory-efficient and highly accurate per task.
 
